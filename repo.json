@@ -35,6 +35,33 @@
                 }
             ],
             "PackageID": "com.hackzy.checklock"
-        }
-    ]
-}
+        },
+        {
+            "Name": "Custom Clock Font",
+            "Description": "Switch up your Lock Screen",
+            "Category": "Font",
+            "Caption": "Replaces the clock font with one made by @Alexman1979",
+            "MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "HackZy",
+                "Links": [
+                    {
+                        "Label": "GitHub",
+                        "Link": "https://GitHub.com/hackzy01"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/customclock1/icon.png",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/hackzy01/misio/main/customclock1/Screenshot.png",
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/hackzy01/misio/customclock1/com.customclock1.misaka",
+                    "Description": ""
+                }
+            ],
+            "PackageID": "com.customclock1"
+        }, 
