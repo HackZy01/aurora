@@ -1,0 +1,40 @@
+{
+    "RepositoryName": "Misio",
+    "RepositoryDescription": "",
+    "RepositoryAuthor": "HackZy",
+    "RepositoryIcon": "",
+    "RepositoryWebsite": "https://github.com/hackzy01/misio",
+    "DefaultHeaderImage": "",
+    "RepositoryContents": [
+        {
+            "Name": "Checkra1n Lock",
+            "Description": "Switch up your Lock Screen",
+            "Category": "Lock",
+            "Caption": "Replaces the Lock Screen padlock icon with the Checkra1n symbol",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "HackZy",
+                "Links": [
+                    {
+                        "Label": "GitHub",
+                        "Link": "https://GitHub.com/hackzy01"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/checkra1n_lock/icon.png",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/hackzy01/misio/main/checkra1n_lock/Screenshot1.png",
+                "https://raw.githubusercontent.com/hackzy01/misio/main/checkra1n_lock/Screenshot2.png",
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/hackzy01/misio/checkra1n_lock/com.hackzy.checklock.misaka",
+                    "Description": ""
+                }
+            ],
+            "PackageID": "com.hacky.checklock"
+        }
+    ]
+}
