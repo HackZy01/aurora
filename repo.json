@@ -1,10 +1,10 @@
 {
-    "RepositoryName": "Misio",
+    "RepositoryName": "Misa",
     "RepositoryDescription": "",
     "RepositoryAuthor": "HackZy",
     "RepositoryIcon": "https://raw.githubusercontent.com/hackzy01/misio/main/repo.png",
     "RepositoryWebsite": "https://github.com/hackzy01/misio",
-    "DefaultHeaderImage": "",
+    "DefaultHeaderImage": "https://raw.githubusercontent.com/hackzy01/misio/main/Header.jpeg",
     "RepositoryContents": [
         {
             "Name": "Checkra1n Lock",
