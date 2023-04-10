@@ -8,7 +8,7 @@
     "RepositoryContents": [
         {
             "Name": "Checkra1n Lock",
-            "Description": "Switch up your Lock Screen",
+            "Description": "a breath of fresh air for your Lock Screen",
             "Category": "Lock",
             "Caption": "Replaces the Lock Screen padlock icon with the Checkra1n symbol",
             "MinIOSVersion": "15.0",
@@ -38,7 +38,7 @@
         },
         {
             "Name": "Custom Clock Font",
-            "Description": "Switch up your Lock Screen",
+            "Description": "a breath of fresh air for your Lock Screen",
             "Category": "Font",
             "Caption": "Replaces the clock font with one made by @Alexman1979",
             "MinIOSVersion": "16.0",
