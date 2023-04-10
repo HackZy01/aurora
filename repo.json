@@ -10,7 +10,7 @@
             "Name": "Checkra1n Lock",
             "Description": "a breath of fresh air",
             "Category": "Lock",
-            "Caption": "Replaces the Lock Screen padlock icon with the Checkra1n symbol",
+            "Caption": "Replaces the Lock Screen padlock icon with the Checkra1n symbol, based on a jailbreak tweak called LatchKey",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Author": {
