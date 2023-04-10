@@ -2,15 +2,15 @@
     "RepositoryName": "Misa",
     "RepositoryDescription": "✨It just works✨",
     "RepositoryAuthor": "HackZy",
-    "RepositoryIcon": "https://raw.githubusercontent.com/hackzy01/misio/main/repo.png",
+    "RepositoryIcon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/Repo.png",
     "RepositoryWebsite": "https://github.com/hackzy01/misio",
-    "DefaultHeaderImage": "https://raw.githubusercontent.com/hackzy01/misio/main/Header.png",
+    "DefaultHeaderImage": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/Header.png",
     "RepositoryContents": [
         {
             "Name": "Checkra1n Lock",
             "Description": "a breath of fresh air",
             "Category": "Lock",
-            "Caption": "Replaces the Lock Screen padlock icon with the Checkra1n symbol, based on a jailbreak tweak called LatchKey",
+            "Caption": "Replaces the Lock Screen padlock icon with the Checkra1n symbol/n/Based on a jailbreak tweak called LatchKey",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Author": {
@@ -22,16 +22,16 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/checkra1n_lock/icon.png",
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.checklockk/icon.png",
             "Screenshot": [
-                "https://raw.githubusercontent.com/hackzy01/misio/main/checkra1n_lock/Screenshot1.png",
-                "https://raw.githubusercontent.com/hackzy01/misio/main/checkra1n_lock/Screenshot2.png",
+                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.checklock/Screenshot1.png",
+                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.checklock/Screenshot2.png"
             ],
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/checkra1n_lock/com.hackzy.checklock.misaka",
-                    "Description": "At least it works now"
+                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.checklock.misaka",
+                    "Description": "It works"
                 }
             ],
             "PackageID": "com.hackzy.checklock"
@@ -52,17 +52,18 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/com.hackzy.subhack/icon.png",
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/icon.png",
             "Screenshot": [
-                "https://raw.githubusercontent.com/hackzy01/misio/main/com.hackzy.subhack/Screenshot.png",
-                "https://raw.githubusercontent.com/hackzy01/misio/main/com.hackzy.subhack/Screenshot1.png",
-                "https://raw.githubusercontent.com/hackzy01/misio/main/com.hackzy.subhack/Screenshot2.png",
-                "https://raw.githubusercontent.com/hackzy01/misio/main/com.hackzy.subhack/Screenshot3.png",
+                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Screenshot.png",
+                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Screenshot1.png",
+                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Screenshot2.png",
+                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Screenshot3.png",
+                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Preview.mov"
             ],
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/com.hackzy.subhack/com.hackzy.subhack.misaka",
+                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.subhack.misaka",
                     "Description": ""
                 }
             ],
