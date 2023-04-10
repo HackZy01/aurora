@@ -1,2 +1,2 @@
-# misio
+# Misa 🥣
 a misaka repo
