@@ -1,6 +1,6 @@
 {
     "RepositoryName": "Misa",
-    "RepositoryDescription": "✨It just exists✨",
+    "RepositoryDescription": "✨It just works✨",
     "RepositoryAuthor": "HackZy",
     "RepositoryIcon": "https://raw.githubusercontent.com/hackzy01/misio/main/repo.png",
     "RepositoryWebsite": "https://github.com/hackzy01/misio",
@@ -37,11 +37,11 @@
             "PackageID": "com.hackzy.checklock"
         },
         {
-            "Name": "Custom Clock Font",
-            "Description": "a breath of fresh air",
-            "Category": "Font",
-            "Caption": "Replaces the clock font with one made by @Alexman1979",
-            "MinIOSVersion": "16.0",
+            "Name": "Subway Surfers Hack",
+            "Description": "That's what I call a pro-gamer move",
+            "Category": "Games",
+            "Caption": "Unlocks all the characters, boards and adds the optimal amount of coins, keys and boards... and a lot more",
+            "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Author": {
                 "Label": "HackZy",
@@ -52,18 +52,21 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/customclock1/icon.png",
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/com.hackzy.subhack/icon.png",
             "Screenshot": [
-                "https://raw.githubusercontent.com/hackzy01/misio/main/customclock1/Screenshot.png",
+                "https://raw.githubusercontent.com/hackzy01/misio/main/com.hackzy.subhack/Screenshot.png",
+                "https://raw.githubusercontent.com/hackzy01/misio/main/com.hackzy.subhack/Screenshot1.png",
+                "https://raw.githubusercontent.com/hackzy01/misio/main/com.hackzy.subhack/Screenshot2.png",
+                "https://raw.githubusercontent.com/hackzy01/misio/main/com.hackzy.subhack/Screenshot3.png",
             ],
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/hackzy01/misio/customclock1/com.customclock1.misaka",
+                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/com.hackzy.subhack/com.hackzy.subhack.misaka",
                     "Description": ""
                 }
             ],
-            "PackageID": "com.customclock1"
+            "PackageID": "com.hackzy.subhack"
         }
     ]
 }
