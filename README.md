@@ -1,6 +1,7 @@
 # <img src="https://github.com/HackZy01/misio/blob/main/assets/Repo.png" height="30"> Misa
 a Misaka Repository
 
+https://raw.githubusercontent.com/HackZy01/misio/main/repo.json
 
 # <img src="https://github.com/HackZy01/misio/blob/main/assets/com.hackzy.checklock/icon.png" height="40"> Checkra1n Lock
 <img src="https://github.com/HackZy01/misio/blob/main/assets/com.hackzy.checklock/Screenshot1.png" height="500"> <img src="https://github.com/HackZy01/misio/blob/main/assets/com.hackzy.checklock/Screenshot2.png" height="500">
