@@ -22,7 +22,7 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.checklockk/icon.png",
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.checklock/icon.png",
             "Screenshot": [
                 "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.checklock/Screenshot1.png",
                 "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.checklock/Screenshot2.png"
@@ -54,11 +54,12 @@
             },
             "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/icon.png",
             "Screenshot": [
+
+                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Preview.mov",
                 "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Screenshot.png",
                 "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Screenshot1.png",
                 "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Screenshot2.png",
-                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Screenshot3.png",
-                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Preview.mov"
+                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Screenshot3.png"
             ],
             "Releases": [
                 {
