@@ -4,7 +4,7 @@
     "RepositoryAuthor": "HackZy",
     "RepositoryIcon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/Repo.png",
     "RepositoryWebsite": "https://github.com/hackzy01/misio",
-    "DefaultHeaderImage": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/Header.png",
+    "HeaderImage": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/Header.png",
     "RepositoryContents": [
         {
             "Name": "Checkra1n Lock",
@@ -88,11 +88,11 @@
             },
             "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.joypixels/icon.png",
             "Screenshot": [
-
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.joypixels/Screenshot.png"
             ],
             "Releases": [
                 {
-                    "Version": "1.0",
+                    "Version": "0.8",
                     "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.joypixels.misaka",
                     "Description": "JoyPixels 7.0, Unicode 14.0"
                 }
