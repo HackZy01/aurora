@@ -4,7 +4,10 @@
     "RepositoryAuthor": "HackZy",
     "RepositoryIcon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/Repo.png",
     "RepositoryWebsite": "https://github.com/hackzy01/misio",
-    "HeaderImage": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/Header.png",
+    "Default":{
+        "HeaderImage": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/Header.png",
+        "ViewCount": true
+    },    
     "RepositoryContents": [
         {
             "Name": "Checkra1n Lock",
@@ -72,7 +75,7 @@
         },
         {
             "Name": "JoyPixels",
-            "Description": "😎",
+            "Description": "An amazing Emoji Font 😎",
             "Category": "Fonts",
             "Caption": "JoyPixels Emoji Font for iOS devices, we love u PoomSmart",
             "MinIOSVersion": "15.0",
@@ -86,7 +89,7 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.joypixels/icon.png",
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.joypixels/jicon.png",
             "Screenshot": [
             "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.joypixels/Screenshot.png"
             ],
