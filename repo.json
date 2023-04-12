@@ -98,6 +98,35 @@
                 }
             ],
             "PackageID": "com.hackzy.joypixels"
+        },
+        {
+            "Name": "Fluent Emojis (Flat)",
+            "Description": "The default Windows 11 Emojis",
+            "Category": "Fonts",
+            "Caption": "Flat Fluent Emojis for iOS devices",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "HackZy, PoomSmart",
+                "Links": [
+                    {
+                        "Label": "HackZy",
+                        "Link": "https://GitHub.com/hackzy01"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.fluentflat/icon.png",
+            "Screenshot": [
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.fluentflat/Screenshot.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.fluentflat.misaka",
+                    "Description": "It works"
+                }
+            ],
+            "PackageID": "com.hackzy.fluentflat"
         }
     ]
 }
