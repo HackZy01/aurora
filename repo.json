@@ -130,6 +130,37 @@
                 }
             ],
             "PackageID": "com.hackzy.fluentflat"
+        },
+        {
+            "Name": "Meloso (UI)",
+            "Description": "An amazing system font",
+            "Category": "Fonts",
+            "Caption": "Meloso is a font which has a playful and organic feel that has its own hand-drawn charm.",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "HackZy, Alexman",
+                "Links": [
+                    {
+                        "Label": "Alexman",
+                        "Link": "https://twitter.com/Alexman1979/"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso/icon.png",
+            "Screenshot": [
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso/Screenshot1.png",
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso/Screenshot2.png",
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso/Screenshot3.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.meloso.misaka",
+                    "Description": "It works"
+                }
+            ],
+            "PackageID": "com.hackzy.melsoso"
         }
     ]
 }
