@@ -69,6 +69,35 @@
                 }
             ],
             "PackageID": "com.hackzy.subhack"
+        },
+        {
+            "Name": "JoyPixels",
+            "Description": "😎",
+            "Category": "Fonts",
+            "Caption": "JoyPixels Emoji Font for iOS devices, we love u PoomSmart",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "HackZy, PoomSmart",
+                "Links": [
+                    {
+                        "Label": "GitHub",
+                        "Link": "https://GitHub.com/hackzy01"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.joypixels/icon.jpeg",
+            "Screenshot": [
+
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.joypixels.misaka",
+                    "Description": "JoyPixels 7.0, Unicode 14.0"
+                }
+            ],
+            "PackageID": "com.hackzy.joypixels"
         }
     ]
 }
