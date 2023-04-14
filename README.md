@@ -8,6 +8,9 @@ Ported over from a jailbreak tweak called LatchKey
 
 <img src="https://github.com/HackZy01/misio/blob/main/assets/com.hackzy.checklock/Screenshot1.png" height="500"> <img src="https://github.com/HackZy01/misio/blob/main/assets/com.hackzy.checklock/Screenshot2.png" height="500">
 
+# <img src="https://github.com/HackZy01/misio/blob/main/assets/com.hackzy.dino/icon.png" height="40"> Dino Legal Notice
+Replaces Legal Notice with Chrome Dino in the settings
+
 # <img src="https://github.com/HackZy01/misio/blob/main/assets/com.hackzy.joypixels/icon.png" height="40"> JoyPixels Emoji Font
 "The finest emoji you can use legally."
 
