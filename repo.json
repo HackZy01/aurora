@@ -161,6 +161,35 @@
                 }
             ],
             "PackageID": "com.hackzy.meloso"
+        },
+        {
+            "Name": "Dino Legal Notice",
+            "Description": "The Easter Egg you wished your iPhone had",
+            "Category": "Games",
+            "Caption": "Replaces the Legal Notice entry in the settings with Chrome Dino Minigame",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "HackZy",
+                "Links": [
+                    {
+                        "Label": "HackZy",
+                        "Link": "https://GitHub.com/hackzy01"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.dino/icon.png",
+            "Screenshot": [
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.dino/Screenshot.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "0.9",
+                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.dino.misaka",
+                    "Description": "I need to fix that bottom text"
+                }
+            ],
+            "PackageID": "com.hackzy.dino"
         }
     ]
 }
