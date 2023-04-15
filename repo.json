@@ -185,8 +185,13 @@
             "Releases": [
                 {
                     "Version": "0.9",
-                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.dino.misaka",
+                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/archived/com.hackzy.dino/0.9.misaka",
                     "Description": "I need to fix that bottom text"
+                },
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.dino.misaka",
+                    "Description": "Thanks Sean"
                 }
             ],
             "PackageID": "com.hackzy.dino"
