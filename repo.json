@@ -195,6 +195,36 @@
                 }
             ],
             "PackageID": "com.hackzy.dino"
+        },
+        {
+            "Name": "OneCC",
+            "Description": "OneUI Control Center Icons",
+            "Category": "UI",
+            "Caption": "Wanted a Samsung and a good experience?\nGoes really well with the Tomorrow Clock Font",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "HackZy",
+                "Links": [
+                    {
+                        "Label": "HackZy",
+                        "Link": "https://GitHub.com/hackzy01"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.onecc/icon.png",
+            "Screenshot": [
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.onecc/Screenshot1.png",
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.onecc/Screenshot2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.onecc.misaka",
+                    "Description": "Special credits to YangJii who's method is used in this tweak"
+                }
+            ],
+            "PackageID": "com.hackzy.onecc"
         }
     ]
 }
