@@ -227,7 +227,7 @@
             "PackageID": "com.hackzy.onecc"
         },
         {
-            "Name": "sCharge",
+            "Name": "scharge",
             "Description": "Samsung Charging Sound",
             "Category": "sound",
             "Caption": "Exactly what you think it does",
