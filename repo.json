@@ -225,6 +225,35 @@
                 }
             ],
             "PackageID": "com.hackzy.onecc"
+        },
+        {
+            "Name": "sCharge",
+            "Description": "Samsung Charging Sound",
+            "Category": "sound",
+            "Caption": "Exactly what you think it does",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "HackZy",
+                "Links": [
+                    {
+                        "Label": "HackZy",
+                        "Link": "https://GitHub.com/hackzy01"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.onecc/icon.png",
+            "Screenshot": [
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.onecc/Preview.mp4"            
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.scharge.misaka",
+                    "Description": "Initial release"
+                }
+            ],
+            "PackageID": "com.hackzy.scharge"
         }
     ]
 }
