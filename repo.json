@@ -12,7 +12,7 @@
         {
             "Name": "Checkra1n Lock",
             "Description": "Give your lock screen a jailbreak touch",
-            "Category": "Lock",
+            "Category": "Lock Screen",
             "Caption": "Replaces the Lock Screen padlock icon with the Checkra1n symbol/n/Based on a jailbreak tweak called LatchKey",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
@@ -87,7 +87,7 @@
             "Category": "Fonts",
             "Caption": "JoyPixels Emoji Font for iOS",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "17.0",
             "Author": {
                 "Label": "HackZy & PoomSmart",
                 "Links": [
@@ -125,7 +125,7 @@
             "Category": "Fonts",
             "Caption": "Fluent Emoji Font for iOS",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "17.0",
             "Author": {
                 "Label": "HackZy & PoomSmart",
                 "Links": [
@@ -163,7 +163,7 @@
             "Category": "Fonts",
             "Caption": "Meloso is a font which has a playful and organic feel that has its own hand-drawn charm.",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "17.0",
             "Author": {
                 "Label": "HackZy & Alexman",
                 "Links": [
@@ -244,7 +244,7 @@
         {
             "Name": "OneCC",
             "Description": "OneUI Control Center Icons",
-            "Category": "UI",
+            "Category": "Control Center",
             "Caption": "Wanted a Samsung and a good experience?\nGoes really well with the Tomorrow Clock Font",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
@@ -278,7 +278,7 @@
         {
             "Name": "Galactic Charge",
             "Description": "Embrace the Unknown",
-            "Category": "sound",
+            "Category": "Sound",
             "Caption": "Unleash the unknown power of the galaxy",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
@@ -314,7 +314,7 @@
             "Category": "Fonts",
             "Caption": "Meloso is a font which has a playful and organic feel that has its own hand-drawn charm.",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "17.0",
             "Author": {
                 "Label": "HackZy & Alexman",
                 "Links": [
@@ -355,7 +355,7 @@
             "Category": "Lock Screen",
             "Caption": "Changes your passcode entry screen to a one that resembles Android by a little",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "17.0",
             "Author": {
                 "Label": "HackZy",
                 "Links": [
@@ -390,7 +390,7 @@
             "Category": "Dock",
             "Caption": "Changes the appearence of your dock",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "17.0",
             "Author": {
                 "Label": "HackZy",
                 "Links": [
