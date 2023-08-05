@@ -10,12 +10,12 @@
     },    
     "RepositoryContents": [
         {
-            "Name": "Checkra1n Lock",
+            "Name": "Checkl0ck",
             "Description": "Give your lock screen a jailbreak touch",
             "Category": "Lock Screen",
             "Caption": "Replaces the Lock Screen padlock icon with the Checkra1n symbol/n/Based on a jailbreak tweak called LatchKey",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "17.0",
             "Author": {
                 "Label": "HackZy",
                 "Links": [
@@ -36,9 +36,9 @@
             ],
             "Releases": [
                 {
-                    "Version": "1.0",
+                    "Version": "1.1",
                     "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.checklock.misaka",
-                    "Description": "It works"
+                    "Description": "Good luck"
                 }
             ],
             "PackageID": "com.hackzy.checklock"
