@@ -121,9 +121,9 @@
         },
         {
             "Name": "Fluent Emoji (Flat)",
-            "Description": "The default Windows 11 Emojis",
+            "Description": "Default Windows 11 Emojis",
             "Category": "Fonts",
-            "Caption": "Fluent Emoji Font for iOS",
+            "Caption": "Fluent Emoji Font for iOS\n\nIt's pretty cute ngl",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "17.0",
             "Author": {
@@ -159,7 +159,7 @@
         },
         {
             "Name": "Meloso (100%)",
-            "Description": "An amazing system font",
+            "Description": "Playful font which lets you enjoy it's hand-drawn charm",
             "Category": "Fonts",
             "Caption": "Meloso is a font which has a playful and organic feel that has its own hand-drawn charm.",
             "MinIOSVersion": "15.0",
@@ -243,7 +243,7 @@
         },
         {
             "Name": "OneCC",
-            "Description": "OneUI Control Center Icons",
+            "Description": "[UPDATE COMING SOON] OneUI is charming, I cannot deny it",
             "Category": "Control Center",
             "Caption": "Wanted a Samsung and a good experience?\nGoes really well with the Tomorrow Clock Font",
             "MinIOSVersion": "15.0",
@@ -310,7 +310,7 @@
         },
         {
             "Name": "Meloso (85%)",
-            "Description": "An amazing system font",
+            "Description": "Playful font which lets you enjoy it's hand-drawn charm",
             "Category": "Fonts",
             "Caption": "Meloso is a font which has a playful and organic feel that has its own hand-drawn charm.",
             "MinIOSVersion": "15.0",
@@ -422,9 +422,9 @@
         },
         {
             "Name": "CleanPrefs",
-            "Description": "The Ultimate Settings Makeover!",
+            "Description": "Experience the joy of simplicity!",
             "Category": "Settings",
-            "Caption": "Experience the joy of simplicity and efficiency! Thanks for the name, Lung Inspector",
+            "Caption": "CleanPrefs aims to simplify and let you customise your Settings page to your liking\n\nCredits for the clever name go to @lunginspector",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Author": {
@@ -462,9 +462,9 @@
         },
         {
             "Name": "OneUI Settings",
-            "Description": "Samsung sneaking into Apple’s Garden",
+            "Description": "Enjoy the simplicity and the vibrant colors of OneUI",
             "Category": "Theme",
-            "Caption": "When a Samsung steps into the Settings of an iPhone",
+            "Caption": "OneUI icon theme for Settings",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Author": {
@@ -528,6 +528,39 @@
                }
             ],
             "PackageID":"com.hackzy.windowsphone"
+         },
+         {
+            "Name":"Nothing Passcode",
+            "Description":"Nothing to see here",
+            "Category":"Theme",
+            "Caption":"a passcode theme that uses Nothing's NDOT55 Font",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author":{
+               "Label":"HackZy",
+               "Links":[
+                  {
+                     "Label":"GitHub",
+                     "Link":"https://github.com/hackzy01"
+                  },
+                  {
+                     "Label":"Twitter",
+                     "Link":"https://twitter.com/hackzy01"
+                  }
+               ]
+            },
+            "Icon":"https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.ndot55pass/icon.png",
+            "Screenshot":[
+               "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.ndot55pass/ss1.png"
+            ],
+            "Releases":[
+               {
+                  "Version":"1.0",
+                  "Package":"https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.ndot55pass.misaka",
+                  "Description":"Ndot 🔥"
+               }
+            ],
+            "PackageID":"com.hackzy.gestures"
          }
     ]
 }
