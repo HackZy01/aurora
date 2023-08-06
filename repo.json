@@ -159,7 +159,7 @@
         },
         {
             "Name": "Meloso (100%)",
-            "Description": "Playful font which lets you enjoy it's hand-drawn charm",
+            "Description": "Playful font, enjoy it's hand-drawn charm",
             "Category": "Fonts",
             "Caption": "Meloso is a font which has a playful and organic feel that has its own hand-drawn charm.",
             "MinIOSVersion": "15.0",
@@ -310,7 +310,7 @@
         },
         {
             "Name": "Meloso (85%)",
-            "Description": "Playful font which lets you enjoy it's hand-drawn charm",
+            "Description": "Playful font, enjoy it's hand-drawn charm",
             "Category": "Fonts",
             "Caption": "Meloso is a font which has a playful and organic feel that has its own hand-drawn charm.",
             "MinIOSVersion": "15.0",
@@ -422,7 +422,7 @@
         },
         {
             "Name": "CleanPrefs",
-            "Description": "Experience the joy of simplicity!",
+            "Description": "Experience the joy of simplicity",
             "Category": "Settings",
             "Caption": "CleanPrefs aims to simplify and let you customise your Settings page to your liking\n\nCredits for the clever name go to @lunginspector",
             "MinIOSVersion": "15.0",
