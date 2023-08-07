@@ -627,7 +627,7 @@
       },
       {
          "Name":"Passcode Customiser",
-         "Description":"Spice up your pin",
+         "Description":"Spice up your PIN Code",
          "Category":"Lock Screen",
          "Caption":"Change your passcode keys",
          "MinIOSVersion":"15.0",

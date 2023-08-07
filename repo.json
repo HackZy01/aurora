@@ -561,6 +561,72 @@
                }
             ],
             "PackageID":"com.hackzy.ndot55pass"
+         },
+         {
+            "Name":"Passcode Customiser",
+            "Description":"Spice up your PIN Code",
+            "Category":"Lock Screen",
+            "Caption":"Change your passcode keys",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"17.0",
+            "Author":{
+               "Label":"HackZy",
+               "Links":[
+                  {
+                     "Label":"GitHub",
+                     "Link":"https://github.com/hackzy01"
+                  },
+                  {
+                     "Label":"Twitter",
+                     "Link":"https://twitter.com/hackzy01"
+                  }
+               ]
+            },
+            "Icon":"https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.passcodecustomiser/icon.png",
+           "Screenshot":[
+           "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.passcodecustomiser/ss1.png"
+            ],
+            "Releases":[
+               {
+                  "Version":"1.0",
+                  "Package":"https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.passcodecustomiser.misaka",
+                  "Description":"spicy"
+               }
+            ],
+            "PackageID":"com.hackzy.passcodecustomiser"
+         },
+         {
+            "Name":"Gestureify",
+            "Description":"Forget the home button",
+            "Category":"Navigation",
+            "Caption":"Recommended OS is iOS 15, iOS 16 might have a few issues\n\nPersists through reboots\n\nGestures offer a fluid and seamless navigation experience",
+            "MinIOSVersion":"14.0",
+            "MaxIOSVersion":"17.0",
+            "Author":{
+               "Label":"HackZy",
+               "Links":[
+                  {
+                     "Label":"GitHub",
+                     "Link":"https://github.com/hackzy01"
+                  },
+                  {
+                     "Label":"Twitter",
+                     "Link":"https://twitter.com/hackzy01"
+                  }
+               ]
+            },
+            "Icon":"https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.gestures/icon.png",
+            "Screenshot":[
+               "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.gestures/ss1.png"
+            ],
+            "Releases":[
+               {
+                  "Version":"1.0 BETA",
+                  "Package":"https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.gestures.misaka",
+                  "Description":"Everything should work nice and smooth"
+               }
+            ],
+            "PackageID":"com.hackzy.gestures"
          }
     ]
 }
