@@ -624,6 +624,39 @@
             }
          ],
          "PackageID":"com.hackzy.castaway"
+      },
+      {
+         "Name":"Passcode Customiser",
+         "Description":"Spice your lock screen up",
+         "Category":"Lock Screen",
+         "Caption":"Change your passcode keys",
+         "MinIOSVersion":"15.0",
+         "MaxIOSVersion":"17.0",
+         "Author":{
+            "Label":"HackZy",
+            "Links":[
+               {
+                  "Label":"GitHub",
+                  "Link":"https://github.com/hackzy01"
+               },
+               {
+                  "Label":"Twitter",
+                  "Link":"https://twitter.com/hackzy01"
+               }
+            ]
+         },
+         "Icon":"https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.passcodecustomisertaway/icon.png",
+        "Screenshot":[
+        "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.passcodecustomiser/ss1.png"
+         ],
+         "Releases":[
+            {
+               "Version":"1.0",
+               "Package":"https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.passcodecustomiser.misaka",
+               "Description":"spicy"
+            }
+         ],
+         "PackageID":"com.hackzy.passcodecustomiser"
       }
    ]
 }
