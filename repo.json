@@ -568,7 +568,7 @@
             "Category":"Lock Screen",
             "Caption":"Change your passcode keys",
             "MinIOSVersion":"15.0",
-            "MaxIOSVersion":"17.0",
+            "MaxIOSVersion":"16.1.2",
             "Author":{
                "Label":"HackZy",
                "Links":[
