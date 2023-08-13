@@ -75,7 +75,7 @@
                {
                    "Version": "2.0",
                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.subhack.misaka",
-                   "Description": "Over 30 new boards and 25 characters and an option to disable replacment of certain files"
+                   "Description": "Over 30 new boards and 25 characters and an in-depth Settings page"
                }
            ],
            "PackageID": "com.hackzy.subhack"
