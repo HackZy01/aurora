@@ -44,10 +44,10 @@
             "PackageID": "com.hackzy.checklock"
         },
         {
-            "Name": "Subway Surfers Plus",
-            "Description": "Surf like a Pro",
+            "Name": "Subway Surfers Hack",
+            "Description": "That's what I call a pro-gamer move",
             "Category": "Games",
-            "Caption": "This cheat will give you everything you need to be the best surfer. You get free coins, keys, boosters, and more, without spending a single penny\n\nYou can customise the tweak in the 'Advanced Settings' page",
+            "Caption": "Unlocks all the characters, boards and adds the optimal amount of coins, keys and boards... and a lot more",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Author": {
@@ -63,19 +63,20 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/icon_text.png",
-            "HeaderImage": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Header.png",
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/icon_old.png",
+            "HeaderImage": "https://play-lh.googleusercontent.com/_Gd_HFEjT1V_Yz4jhW9360DDl_OX174r9iO_JwGVVPNdrAeTNE3kY6YyaBoervZfQLA=w5120-h2880",
             "Screenshot": [
-                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/ss1.png",
-                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/ss2.png",
-                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/ss3.png",
-                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/ss4.png"
-                        ],
+                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Preview.mov",
+                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Screenshot.png",
+                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Screenshot1.png",
+                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Screenshot2.png",
+                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Screenshot3.png"
+            ],
             "Releases": [
                 {
-                    "Version": "2.0",
+                    "Version": "1.0",
                     "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.subhack.misaka",
-                    "Description": "Over 30 new boards and 25 characters and an in-depth Settings page"
+                    "Description": ""
                 }
             ],
             "PackageID": "com.hackzy.subhack"
