@@ -632,6 +632,40 @@
              }
             ],
             "PackageID":"com.hackzy.passcodecustomiser"
+         },
+         {
+            "Name":"Pixel LS UI",
+            "Description":"a different flavour",
+            "Category":"Lock Screen",
+            "Caption":"Replaces your LS Quick Toggle icons with the ones found on Android",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"17.0",
+            "Author":{
+               "Label":"HackZy",
+               "Links":[
+                  {
+                     "Label":"GitHub",
+                     "Link":"https://github.com/hackzy01"
+                  },
+                  {
+                     "Label":"Twitter",
+                     "Link":"https://twitter.com/hackzy01"
+                  }
+               ]
+            },
+            "Icon":"https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.pxlsui/icon.png",
+           "Screenshot":[
+           "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.pxlsui/ss1.png",
+           "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.pxlsui/ss2.png"
+            ],
+            "Releases":[
+               {
+                  "Version":"1.0",
+                  "Package":"https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.pxlsui.misaka",
+                  "Description":"Adrod 13"
+               }
+            ],
+            "PackageID":"com.hackzy.pxlsui"
          }
     ]
 }
