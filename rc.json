@@ -664,7 +664,7 @@
       },
       {
         "Name":"Pixel LS UI",
-        "Description":"a different flavour than usually",
+        "Description":"a different flavour",
         "Category":"Lock Screen",
         "Caption":"Replaces your LS Quick Toggle icons with the ones found on Android",
         "MinIOSVersion":"15.0",
