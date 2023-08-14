@@ -45,9 +45,9 @@
        },
        {
            "Name": "Subway Surfers Plus",
-           "Description": "Want to surf like a pro?",
+           "Description": "Surf like a pro",
            "Category": "Games",
-           "Caption": "This cheat will give you everything you need to become the best surfer. You get free coins, keys, boosters, and more, without spending a single cent\n\nYou can customise the tweak in the 'Advanced Settings' page",
+           "Caption": "This cheat will give you everything you need to be the best surfer. You get free coins, keys, boosters, and more, without spending a single penny\n\nYou can customise the tweak in the 'Advanced Settings' page",
            "MinIOSVersion": "15.0",
            "MaxIOSVersion": "16.1.2",
            "Author": {
@@ -73,8 +73,13 @@
                        ],
            "Releases": [
                {
+                "Version": "1.0",
+                "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.subhack.misaka",
+                "Description": ""
+               },
+               {
                    "Version": "2.0",
-                   "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.subhack.misaka",
+                   "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.subhack2.misaka",
                    "Description": "Over 30 new boards and 25 characters and an in-depth Settings page"
                }
            ],
