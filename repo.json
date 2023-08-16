@@ -163,7 +163,7 @@
         },
         {
             "Name": "Meloso (100%)",
-            "Description": "Playful font, enjoy it's hand-drawn charm",
+            "Description": "playful font, enjoy it's hand-drawn charm",
             "Category": "Fonts",
             "Caption": "Meloso is a font which has a playful and organic feel that has its own hand-drawn charm.",
             "MinIOSVersion": "15.0",
@@ -209,7 +209,7 @@
         },
         {
             "Name": "Dino Legal Notice",
-            "Description": "The Easter Egg you wished your iPhone had",
+            "Description": "the cure for boredom",
             "Category": "Games",
             "Caption": "Replaces the Legal Notice entry in the settings with Chrome Dino Minigame",
             "MinIOSVersion": "15.0",
@@ -246,8 +246,8 @@
             "PackageID": "com.hackzy.dino"
         },
         {
-            "Name": "OneCC",
-            "Description": "[UPDATE COMING SOON] OneUI is charming, I cannot deny it",
+            "Name": "OneUI Control Centre",
+            "Description": "[UPDATE COMING SOON]",
             "Category": "Control Center",
             "Caption": "Wanted a Samsung and a good experience?\nGoes really well with the Tomorrow Clock Font",
             "MinIOSVersion": "15.0",
@@ -314,7 +314,7 @@
         },
         {
             "Name": "Meloso (85%)",
-            "Description": "Playful font, enjoy it's hand-drawn charm",
+            "Description": "playful font, enjoy it's hand-drawn charm",
             "Category": "Fonts",
             "Caption": "Meloso is a font which has a playful and organic feel that has its own hand-drawn charm.",
             "MinIOSVersion": "15.0",
@@ -466,7 +466,7 @@
         },
         {
             "Name": "OneUI Settings",
-            "Description": "Enjoy the simplicity and the vibrant colors of OneUI",
+            "Description": "Enjoy the simplicity and the vibrancy",
             "Category": "Theme",
             "Caption": "OneUI icon theme for Settings",
             "MinIOSVersion": "15.0",
@@ -501,7 +501,7 @@
         },
         {
             "Name":"Windows Phone",
-            "Description":"Nostalgia at it's finest",
+            "Description":"nostalgia at it's finest",
             "Category":"Sounds",
             "Caption":"Step into a world of nostalgia, evoking memories of simpler times",
             "MinIOSVersion":"15.0",
