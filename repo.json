@@ -670,6 +670,41 @@
                }
             ],
             "PackageID":"com.hackzy.pxlsui"
+         },
+         {
+            "Name":"Galaxy Fonts",
+            "Description":"express yourself",
+            "Category":"Fonts",
+            "Caption":"Ported over OneUI 6 Clock Fonts",
+            "MinIOSVersion":"16.0",
+            "MaxIOSVersion":"17.0",
+            "Author":{
+               "Label":"HackZy",
+               "Links":[
+                  {
+                     "Label":"GitHub",
+                     "Link":"https://github.com/hackzy01"
+                  },
+                  {
+                     "Label":"Twitter",
+                     "Link":"https://twitter.com/hackzy01"
+                  }
+               ]
+            },
+            "Icon":"https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.galaxyfonts/icon.png",
+           "Screenshot":[
+           "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.galaxyfonts/ss1.png",
+           "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.galaxyfonts/ss2.png",
+           "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.galaxyfonts/ss3.png"
+            ],
+            "Releases":[
+               {
+                  "Version":"1.0",
+                  "Package":"https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.galaxyfonts.misaka",
+                  "Description":"Android 14 ✨"
+               }
+            ],
+            "PackageID":"com.hackzy.galaxyfonts"
          }
     ]
 }
