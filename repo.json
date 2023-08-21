@@ -592,13 +592,13 @@
             "Icon":"https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.gestures/icon.png",
             "Screenshot":[
                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.gestures/ss1.png",
-               "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.gestures/ss1.png"
+               "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.gestures/ss2.png"
             ],
             "Releases":[
                {
                   "Version":"1.1b",
                   "Package":"https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.gestures.misaka",
-                  "Description":"Everything should work nice and smooth"
+                  "Description":"Removed the annoying broken LS toggles, added documentation and auto-disables the search bar on iOS 16"
                }
             ],
             "PackageID":"com.hackzy.gestures"
