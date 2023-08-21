@@ -709,6 +709,42 @@
                }
             ],
             "PackageID":"com.hackzy.galaxyfonts"
+         },
+         {
+            "Name":"SamsungOne Font",
+            "Description":"smooth and sleek design",
+            "Category":"Fonts",
+            "Caption":"The font is designed to symbolize reliability and expertise with handwriting-like details that add a human touch",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"17.0",
+            "Author":{
+               "Label":"HackZy",
+               "Links":[
+                  {
+                     "Label":"GitHub",
+                     "Link":"https://github.com/hackzy01"
+                  },
+                  {
+                     "Label":"Twitter",
+                     "Link":"https://twitter.com/hackzy01"
+                  }
+               ]
+            },
+            "Icon":"https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.samsungone/icon.png",
+           "Screenshot":[
+           "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.samsungone/ss1.png",
+           "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.samsungone/ss2.png",
+           "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.samsungone/ss3.png",
+           "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.samsungone/ss4.png"
+            ],
+            "Releases":[
+               {
+                  "Version":"1.0",
+                  "Package":"https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.samsungone.misaka",
+                  "Description":"cha cha real smooth"
+               }
+            ],
+            "PackageID":"com.hackzy.samsungone"
          }
     ]
 }
