@@ -718,17 +718,21 @@
             "MinIOSVersion":"15.0",
             "MaxIOSVersion":"17.0",
             "Author":{
-               "Label":"HackZy",
-               "Links":[
-                  {
-                     "Label":"GitHub",
-                     "Link":"https://github.com/hackzy01"
-                  },
-                  {
-                     "Label":"Twitter",
-                     "Link":"https://twitter.com/hackzy01"
-                  }
-               ]
+                "Label": "HackZy & Alexman",
+                "Links": [
+                    {
+                        "Label": "Alexman - Twitter",
+                        "Link": "https://twitter.com/Alexman1979/"
+                    },
+                    {
+                        "Label": "HackZy - Twitter",
+                        "Link": "https://twitter.com/hackzy01"
+                    },
+                    {
+                        "Label": " HackZy - GitHub",
+                        "Link": "https://GitHub.com/hackzy01"
+                    }
+                ]
             },
             "Icon":"https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.samsungone/icon.png",
            "Screenshot":[
