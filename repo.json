@@ -758,6 +758,39 @@
                }
             ],
             "PackageID":"com.hackzy.samsungone"
+         },
+         {
+            "Name": "OneUI LS UI",
+            "Description": "simple and nice looking",
+            "Category": "Lock Screen",
+            "Caption": "OneUI Lock Screen Toggle Icons",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "HackZy",
+                "Links": [
+                    {
+                        "Label": "GitHub",
+                        "Link": "https://GitHub.com/hackzy01"
+                    },
+                    {
+                        "Label": "Twitter",
+                        "Link": "https://twitter.com/hackzy01"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.oneuisettings/icon.png",
+            "Screenshot": [
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.oneuils/ss1.png",
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.oneuils.misaka",
+                    "Description": ""
+                }
+            ],
+            "PackageID": "com.hackzy.oneuils"
          }
     ]
 }
