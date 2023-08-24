@@ -720,6 +720,41 @@
             "PackageID":"com.hackzy.galaxyfonts"
          },
          {
+            "Name":"Galaxy Fonts Legacy",
+            "Description":"express yourself freely",
+            "Category":"Fonts",
+            "Caption":"Ported over OneUI 6 Clock Fonts for iOS 15",
+            "MinIOSVersion":"14.0",
+            "MaxIOSVersion":"15.7.6",
+            "Author":{
+               "Label":"HackZy",
+               "Links":[
+                  {
+                     "Label":"GitHub",
+                     "Link":"https://github.com/hackzy01"
+                  },
+                  {
+                     "Label":"Twitter",
+                     "Link":"https://twitter.com/hackzy01"
+                  }
+               ]
+            },
+            "Icon":"https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.galaxyfonts15/icon.png",
+           "Screenshot":[
+           "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.galaxyfonts15/ss1.png",
+           "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.galaxyfonts15/ss2.png",
+           "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.galaxyfonts15/ss3.png"
+            ],
+            "Releases":[
+               {
+                  "Version":"1.0",
+                  "Package":"https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.galaxyfontslegacy.misaka",
+                  "Description":"Android 14 ✨"
+               }
+            ],
+            "PackageID":"com.hackzy.galaxyfontslegacy"
+         },
+         {
             "Name":"SamsungOne Font",
             "Description":"smooth and sleek design",
             "Category":"Fonts",
@@ -781,7 +816,7 @@
             },
             "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.oneuisettings/icon.png",
             "Screenshot": [
-            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.oneuils/ss1.png",
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.oneuils/ss1.png"
             ],
             "Releases": [
                 {
