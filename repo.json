@@ -721,7 +721,7 @@
          },
          {
             "Name":"Galaxy Fonts Legacy",
-            "Description":"express yourself freely",
+            "Description":"express yourself freely on iOS 15",
             "Category":"Fonts",
             "Caption":"Ported over OneUI 6 Clock Fonts for iOS 15",
             "MinIOSVersion":"14.0",
