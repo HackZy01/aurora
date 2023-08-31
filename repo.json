@@ -97,18 +97,22 @@
       "MinIOSVersion": "15.0",
       "MaxIOSVersion": "17.0",
       "Author": {
-        "Label": "HackZy",
+        "Label": "HackZy & PoomSmart",
         "Links": [
           {
-            "Label": "Discord",
+            "Label": "PoomSmart's GitHub",
+            "Link": "https://github.com/poomsmart/"
+          },
+          {
+            "Label": "HackZy's Discord",
             "Link": "https://discord.com/users/424899221267939328"
           },
           {
-            "Label": "GitHub",
-            "Link": "https://github.com/hackzy01"
+            "Label": "HackZy's GitHub",
+            "Link": "https://GitHub.com/hackzy01"
           },
           {
-            "Label": "Twitter",
+            "Label": "HackZy's Twitter",
             "Link": "https://twitter.com/hackzy01"
           }
         ]
@@ -340,6 +344,50 @@
       "PackageID": "com.hackzy.galaxyfontslegacy"
     },
     {
+      "Name": "SamsungOne Font",
+      "Description": "smooth and sleek",
+      "Category": "Fonts",
+      "Caption": "The font is designed to symbolize reliability and expertise with handwriting-like details that add a human touch",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "17.0",
+      "Author": {
+        "Label": "HackZy & Alexman",
+        "Links": [
+          {
+            "Label": "Alexman's Twitter",
+            "Link": "https://twitter.com/Alexman1979/"
+          },
+          {
+            "Label": "HackZy's Discord",
+            "Link": "https://discord.com/users/424899221267939328"
+          },
+          {
+            "Label": "HackZy's GitHub",
+            "Link": "https://GitHub.com/hackzy01"
+          },
+          {
+            "Label": "HackZy's Twitter",
+            "Link": "https://twitter.com/hackzy01"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.samsungone/icon.png",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.samsungone/ss1.png",
+        "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.samsungone/ss2.png",
+        "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.samsungone/ss3.png",
+        "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.samsungone/ss4.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.samsungone.misaka",
+          "Description": "cha cha real smooth"
+        }
+      ],
+      "PackageID": "com.hackzy.samsungone"
+    },
+    {
       "Name": "Meloso (100%)",
       "Description": "playful font with a hand-drawn charm",
       "Category": "Fonts",
@@ -433,50 +481,6 @@
       "PackageID": "com.hackzy.meloso85"
     },
     {
-      "Name": "SamsungOne Font",
-      "Description": "smooth and sleek",
-      "Category": "Fonts",
-      "Caption": "The font is designed to symbolize reliability and expertise with handwriting-like details that add a human touch",
-      "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "17.0",
-      "Author": {
-        "Label": "HackZy & Alexman",
-        "Links": [
-          {
-            "Label": "Alexman's Twitter",
-            "Link": "https://twitter.com/Alexman1979/"
-          },
-          {
-            "Label": "HackZy's Discord",
-            "Link": "https://discord.com/users/424899221267939328"
-          },
-          {
-            "Label": "HackZy's GitHub",
-            "Link": "https://GitHub.com/hackzy01"
-          },
-          {
-            "Label": "HackZy's Twitter",
-            "Link": "https://twitter.com/hackzy01"
-          }
-        ]
-      },
-      "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.samsungone/icon.png",
-      "Screenshot": [
-        "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.samsungone/ss1.png",
-        "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.samsungone/ss2.png",
-        "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.samsungone/ss3.png",
-        "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.samsungone/ss4.png"
-      ],
-      "Releases": [
-        {
-          "Version": "1.0",
-          "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.samsungone.misaka",
-          "Description": "cha cha real smooth"
-        }
-      ],
-      "PackageID": "com.hackzy.samsungone"
-    },
-    {
       "Name": "Limitless",
       "Description": "rules are there to be broken",
       "Category": "Other",
@@ -506,44 +510,6 @@
         }
       ],
       "PackageID": "com.constantin.limitless"
-    },
-    {
-      "Name": "Checkl0ck",
-      "Description": "give your lock screen a jailbreak touch",
-      "Category": "Lock Screen",
-      "Caption": "Replaces the Lock Screen padlock icon with the Checkra1n symbol\n\nBased on a jailbreak tweak called LatchKey",
-      "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "17.0",
-      "Author": {
-        "Label": "HackZy",
-        "Links": [
-          {
-            "Label": "Discord",
-            "Link": "https://discord.com/users/424899221267939328"
-          },
-          {
-            "Label": "GitHub",
-            "Link": "https://github.com/hackzy01"
-          },
-          {
-            "Label": "Twitter",
-            "Link": "https://twitter.com/hackzy01"
-          }
-        ]
-      },
-      "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.checklock/icon.png",
-      "Screenshot": [
-        "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.checklock/Screenshot1.png",
-        "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.checklock/Screenshot2.png"
-      ],
-      "Releases": [
-        {
-          "Version": "1.1",
-          "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.checklock.misaka",
-          "Description": "Good luck"
-        }
-      ],
-      "PackageID": "com.hackzy.checklock"
     },
     {
       "Name": "Pixel LS UI",
@@ -619,6 +585,44 @@
         }
       ],
       "PackageID": "com.hackzy.oneuils"
+    },
+    {
+      "Name": "Checkl0ck",
+      "Description": "give your lock screen a jailbreak touch",
+      "Category": "Lock Screen",
+      "Caption": "Replaces the Lock Screen padlock icon with the Checkra1n symbol\n\nBased on a jailbreak tweak called LatchKey",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "17.0",
+      "Author": {
+        "Label": "HackZy",
+        "Links": [
+          {
+            "Label": "Discord",
+            "Link": "https://discord.com/users/424899221267939328"
+          },
+          {
+            "Label": "GitHub",
+            "Link": "https://github.com/hackzy01"
+          },
+          {
+            "Label": "Twitter",
+            "Link": "https://twitter.com/hackzy01"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.checklock/icon.png",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.checklock/Screenshot1.png",
+        "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.checklock/Screenshot2.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.1",
+          "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.checklock.misaka",
+          "Description": "Good luck"
+        }
+      ],
+      "PackageID": "com.hackzy.checklock"
     },
     {
       "Name": "Negative Dock",
@@ -780,6 +784,45 @@
       "PackageID": "com.hackzy.materialpass"
     },
     {
+      "Name": "OneUI Settings",
+      "Description": "simple and vibrant",
+      "Category": "Theme",
+      "Caption": "OneUI icon theme for Settings",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "16.1.2",
+      "Author": {
+        "Label": "HackZy",
+        "Links": [
+          {
+            "Label": "Discord",
+            "Link": "https://discord.com/users/424899221267939328"
+          },
+          {
+            "Label": "GitHub",
+            "Link": "https://github.com/hackzy01"
+          },
+          {
+            "Label": "Twitter",
+            "Link": "https://twitter.com/hackzy01"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.oneuisettings/icon.png",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.oneuisettings/ss1.png",
+        "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.oneuisettings/ss2.png",
+        "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.oneuisettings/ss3.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0.1",
+          "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.oneuisettings.misaka",
+          "Description": "NVT2 1.3 fix"
+        }
+      ],
+      "PackageID": "com.hackzy.oneuisettings"
+    },
+    {
       "Name": "OneUI Control Centre",
       "Description": "an update is in the works",
       "Category": "Control Center",
@@ -853,45 +896,6 @@
         }
       ],
       "PackageID": "com.hackzy.galacticcharge"
-    },
-    {
-      "Name": "OneUI Settings",
-      "Description": "simple and vibrant",
-      "Category": "Theme",
-      "Caption": "OneUI icon theme for Settings",
-      "MinIOSVersion": "15.0",
-      "MaxIOSVersion": "16.1.2",
-      "Author": {
-        "Label": "HackZy",
-        "Links": [
-          {
-            "Label": "Discord",
-            "Link": "https://discord.com/users/424899221267939328"
-          },
-          {
-            "Label": "GitHub",
-            "Link": "https://github.com/hackzy01"
-          },
-          {
-            "Label": "Twitter",
-            "Link": "https://twitter.com/hackzy01"
-          }
-        ]
-      },
-      "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.oneuisettings/icon.png",
-      "Screenshot": [
-        "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.oneuisettings/ss1.png",
-        "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.oneuisettings/ss2.png",
-        "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.oneuisettings/ss3.png"
-      ],
-      "Releases": [
-        {
-          "Version": "1.0.1",
-          "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.oneuisettings.misaka",
-          "Description": "NVT2 1.3 fix"
-        }
-      ],
-      "PackageID": "com.hackzy.oneuisettings"
     }
   ]
 }
