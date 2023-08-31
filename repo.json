@@ -826,6 +826,38 @@
                 }
             ],
             "PackageID": "com.hackzy.oneuils"
+         },
+         {
+            "Name": "Limitless",
+            "Description": "remove the volume limit from your Music",
+            "Category": "Other",
+            "Caption": "Removes the volume limit from European iPhones",
+            "MinIOSVersion": "14.0",
+            "MaxIOSVersion": "17.0",
+            "Author": {
+                "Label": "Constantin",
+                "Links": [
+                    {
+                        "Label": "GitHub",
+                        "Link": "https://GitHub.com/hackzy01"
+                    },
+                    {
+                        "Label": "Twitter",
+                        "Link": "https://twitter.com/hackzy01"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.constantin.limitless/icon.png",
+            "Screenshot": [
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.constantin.limitless.misaka",
+                    "Description": ""
+                }
+            ],
+            "PackageID": "com.constantin.limitless"
          }
     ]
 }
