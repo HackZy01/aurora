@@ -43,6 +43,11 @@
           "Version": "1.0",
           "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.windowsphone.misaka",
           "Description": "✨Nostalgia✨"
+        },
+        {
+          "Version": "2.0",
+          "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.windowsphone2.misaka",
+          "Description": "Nostalgia++, added a settings page"
         }
       ],
       "PackageID": "com.hackzy.windowsphone"
@@ -205,9 +210,9 @@
       ],
       "Releases": [
         {
-          "Version": "1.1b",
+          "Version": "1.2b",
           "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.gestures.misaka",
-          "Description": "Removed the annoying broken LS toggles, added documentation and auto-disables the search bar on iOS 16"
+          "Description": "Added a hide homebar function, improved the UI, and added Advanced Restore Options"
         }
       ],
       "PackageID": "com.hackzy.gestures"
