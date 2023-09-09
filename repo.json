@@ -349,6 +349,49 @@
       "PackageID": "com.hackzy.galaxyfontslegacy"
     },
     {
+      "Name": "Media Molecule Fonts",
+      "Description": "relive your memories in style",
+      "Category": "Fonts",
+      "Caption": "Clock Fonts ported from LittleBigPlanet, Dreams and Tearaway",
+      "MinIOSVersion": "16.0",
+      "MaxIOSVersion": "17.0",
+      "Author": {
+        "Label": "HackZy",
+        "Links": [
+          {
+            "Label": "Media Molecule's Website",
+            "Link": "https://www.mediamolecule.com/"
+          },
+          {
+            "Label": "HackZy's Discord",
+            "Link": "https://discord.com/users/424899221267939328"
+          },
+          {
+            "Label": "HackZy's GitHub",
+            "Link": "https://github.com/hackzy01"
+          },
+          {
+            "Label": "HackZy's Twitter",
+            "Link": "https://twitter.com/hackzy01"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.mmfonts/icon.png",
+      "Screenshot": [
+        "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.mmfonts/ss1.png",
+        "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.mmfonts/ss2.png",
+        "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.mmfonts/ss3.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.mmfonts.misaka",
+          "Description": ""
+        }
+      ],
+      "PackageID": "com.hackzy.mmfonts"
+    },
+    {
       "Name": "SamsungOne Font",
       "Description": "smooth and sleek",
       "Category": "Fonts",
