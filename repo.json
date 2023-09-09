@@ -129,7 +129,7 @@
       ],
       "Releases": [
         {
-          "Version": "1.0",
+          "Version": "14.0.5",
           "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.fluentflat.misaka",
           "Description": "It works"
         }
