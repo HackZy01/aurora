@@ -131,7 +131,7 @@
         {
           "Version": "14.0.5",
           "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.fluentflat.misaka",
-          "Description": "It works"
+          "Description": "Unicode 14"
         }
       ],
       "PackageID": "com.hackzy.fluentflat"
