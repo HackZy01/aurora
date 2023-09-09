@@ -87,9 +87,9 @@
       ],
       "Releases": [
         {
-          "Version": "1.0",
+          "Version": "15.0",
           "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.joypixels.misaka",
-          "Description": "JoyPixels 7.0, Unicode 14.0"
+          "Description": "JoyPixels 8.0, Unicode 15.0"
         }
       ],
       "PackageID": "com.hackzy.joypixels"
