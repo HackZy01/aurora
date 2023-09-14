@@ -392,6 +392,42 @@
       "PackageID": "com.hackzy.mmfonts"
     },
     {
+      "Name": "Dawnbreaker",
+      "Description": "iOS 17 Ringtones",
+      "Category": "Sound",
+      "Caption": "Opening > Steps,\n\nReflection > Reflection,\n\nApex > Valley,\n\nSilk > Daybreak,\n\nUplift > Tease,\n\nCircuit > Kettle,\n\nPlayTime >Milky Way,\n\nConstelation > Departure,\n\nSummit > Breaking",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "17.0",
+      "Author": {
+        "Label": "HackZy",
+        "Links": [
+          {
+            "Label": "HackZy's Discord",
+            "Link": "https://discord.com/users/424899221267939328"
+          },
+          {
+            "Label": "HackZy's GitHub",
+            "Link": "https://github.com/hackzy01"
+          },
+          {
+            "Label": "HackZy's Twitter",
+            "Link": "https://twitter.com/hackzy01"
+          }
+        ]
+      },
+      "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.dawnbreaker/icon.png",
+      "Screenshot": [
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.dawnbreaker.misaka",
+          "Description": ""
+        }
+      ],
+      "PackageID": "com.hackzy.dawnbreaker"
+    },
+    {
       "Name": "SamsungOne Font",
       "Description": "smooth and sleek",
       "Category": "Fonts",
