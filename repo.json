@@ -8,6 +8,7 @@
     "HeaderImage": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/Header.png",
     "ViewCount": true
   },
+  "RepositoryAccent": "#b3ebbb",
   "featured": [
     {
       "name": "Galaxy Fonts",
