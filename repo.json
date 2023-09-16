@@ -8,6 +8,25 @@
     "HeaderImage": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/Header.png",
     "ViewCount": true
   },
+  "featured": [
+    {
+      "name": "Gesturify",
+      "bundleid": "com.hackzy.gestures",
+      "banner": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/purekfd/gestures.png",
+      "showname": false
+    },
+    {
+      "name": "Subway Surfers Plus",
+      "bundleid": "com.hackzy.subhack",
+      "banner": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/purekfd/subway.png"
+    },
+    {
+      "name": "Galaxy Fonts",
+      "bundleid": "com.hackzy.galaxyfonts",
+      "banner": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/purekfd/galaxyfonts.png",
+      "showname": false
+    }
+  ],
   "RepositoryContents": [
     {
       "Name": "Windows Phone",
