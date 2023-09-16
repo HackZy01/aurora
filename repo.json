@@ -10,7 +10,7 @@
   },
   "featured": [
     {
-      "name": "Gesturify",
+      "name": "Gesturify 1.2B",
       "bundleid": "com.hackzy.gestures",
       "banner": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/purekfd/gestures.png",
       "showname": false
@@ -21,7 +21,7 @@
       "banner": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/purekfd/subway.png"
     },
     {
-      "name": "Galaxy Fonts",
+      "name": "Galaxy Fonts for iOS 16",
       "bundleid": "com.hackzy.galaxyfonts",
       "banner": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/purekfd/galaxyfonts.png",
       "showname": false
