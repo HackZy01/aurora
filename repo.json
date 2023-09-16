@@ -10,20 +10,21 @@
   },
   "featured": [
     {
-      "name": "Gesturify 1.2B",
+      "name": "Galaxy Fonts",
+      "bundleid": "com.hackzy.galaxyfonts",
+      "banner": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/purekfd/galaxyfonts.png",
+      "showname": false
+    },
+    {
+      "name": "Gesturify",
       "bundleid": "com.hackzy.gestures",
       "banner": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/purekfd/gestures.png",
       "showname": false
     },
     {
-      "name": "Subway Surfers Plus",
+      "name": "Subway Surfers+",
       "bundleid": "com.hackzy.subhack",
-      "banner": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/purekfd/subway.png"
-    },
-    {
-      "name": "Galaxy Fonts for iOS 16",
-      "bundleid": "com.hackzy.galaxyfonts",
-      "banner": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/purekfd/galaxyfonts.png",
+      "banner": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/purekfd/subway.png",
       "showname": false
     }
   ],
