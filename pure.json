@@ -1,0 +1,1156 @@
+{
+    "RepositoryName": "Aurora",
+    "RepositoryDescription": "Aurora – where customization knows no bounds",
+    "RepositoryAuthor": "HackZy",
+    "RepositoryIcon": "https://raw.githubusercontent.com/hackzy01/aurora/main/images/Repository.png",
+    "RepositoryWebsite": "https://github.com/hackzy01/aurora",
+    "Default": {
+      "HeaderImage": "https://raw.githubusercontent.com/hackzy01/aurora/main/images/Header.png",
+      "ViewCount": true
+    },
+    "RepositoryAccent": "#b3ebbb",
+    "featured": [
+      {
+        "name": "Galaxy Fonts",
+        "bundleid": "com.hackzy.galaxyfonts",
+        "banner": "https://raw.githubusercontent.com/hackzy01/aurora/main/images/purekfd/galaxyfonts.png",
+        "showname": false
+      },
+      {
+        "name": "Gesturify",
+        "bundleid": "com.hackzy.gestures",
+        "banner": "https://raw.githubusercontent.com/hackzy01/aurora/main/images/purekfd/gestures.png",
+        "showname": false
+      },
+      {
+        "name": "Subway Surfers+",
+        "bundleid": "com.hackzy.subhack",
+        "banner": "https://raw.githubusercontent.com/hackzy01/aurora/main/images/purekfd/subway.png",
+        "showname": false
+      }
+    ],
+    "RepositoryContents": [
+      {
+        "Name": "Windows Phone",
+        "Description": "nostalgia at it's finest",
+        "Category": "Sounds",
+        "Caption": "Step into a world of nostalgia, evoking memories of simpler times",
+        "MinIOSVersion": "15.0",
+        "MaxIOSVersion": "16.6",
+        "AdditionalSupportedIOS": {
+          "MinIOSVersion_CustomLabel": "15.0",
+          "MaxIOSVersion_CustomLabel": "16.6b1",
+          "Build": [
+            "20G5026e"
+          ]
+        },
+        "accent":"#b3ebbb",
+        "Author": {
+          "Label": "HackZy",
+          "Links": [
+            {
+              "Label": "Discord",
+              "Link": "https://discord.com/users/424899221267939328"
+            },
+            {
+              "Label": "GitHub",
+              "Link": "https://github.com/hackzy01"
+            },
+            {
+              "Label": "Twitter",
+              "Link": "https://twitter.com/hackzy01"
+            }
+          ]
+        },
+        "Icon": "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.windowsphone/icon.png",
+        "HeaderImage": "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.windowsphone/Header.png",
+        "Screenshot": [
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.windowsphone/ss1.png"
+        ],
+        "Releases": [
+          {
+            "Version": "1.0",
+            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/com.hackzy.windowsphone.misaka",
+            "Description": "✨Nostalgia✨"
+          },
+          {
+            "Version": "2.0",
+            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/com.hackzy.windowsphone2.misaka",
+            "Description": "Nostalgia++, added a settings page"
+          }
+        ],
+        "PackageID": "com.hackzy.windowsphone"
+      },
+      {
+        "Name": "JoyPixels",
+        "Description": "the full service emoji provider",
+        "Category": "Fonts",
+        "Caption": "JoyPixels Emoji Font for iOS",
+        "MinIOSVersion": "15.0",
+        "MaxIOSVersion": "16.6",
+        "AdditionalSupportedIOS": {
+          "MinIOSVersion_CustomLabel": "15.0",
+          "MaxIOSVersion_CustomLabel": "16.6b1",
+          "Build": [
+            "20G5026e"
+          ]
+        },
+        "accent":"#18ad74",
+        "Author": {
+          "Label": "HackZy & PoomSmart",
+          "Links": [
+            {
+              "Label": "PoomSmart's GitHub",
+              "Link": "https://github.com/poomsmart/"
+            },
+            {
+              "Label": "HackZy's Discord",
+              "Link": "https://discord.com/users/424899221267939328"
+            },
+            {
+              "Label": "HackZy's GitHub",
+              "Link": "https://GitHub.com/hackzy01"
+            },
+            {
+              "Label": "HackZy's Twitter",
+              "Link": "https://twitter.com/hackzy01"
+            }
+          ]
+        },
+        "Icon": "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.joypixels/icon.png",
+        "HeaderImage": "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.joypixels/Header.png",
+        "Screenshot": [
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.joypixels/Screenshot.png"
+        ],
+        "Releases": [
+          {
+            "Version": "15.0",
+            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/com.hackzy.joypixels.misaka",
+            "Description": "JoyPixels 8.0, Unicode 15.0"
+          }
+        ],
+        "PackageID": "com.hackzy.joypixels"
+      },
+      {
+        "Name": "Fluent Emoji (Flat)",
+        "Description": "default Windows 11 Emojis",
+        "Category": "Fonts",
+        "Caption": "Fluent Emoji Font for iOS\n\nIt's pretty cute ngl",
+        "MinIOSVersion": "15.0",
+        "MaxIOSVersion": "16.6",
+        "AdditionalSupportedIOS": {
+          "MinIOSVersion_CustomLabel": "15.0",
+          "MaxIOSVersion_CustomLabel": "16.6b1",
+          "Build": [
+            "20G5026e"
+          ]
+        },
+        "accent": "#48c5ff",
+        "Author": {
+          "Label": "HackZy & PoomSmart",
+          "Links": [
+            {
+              "Label": "PoomSmart's GitHub",
+              "Link": "https://github.com/poomsmart/"
+            },
+            {
+              "Label": "HackZy's Discord",
+              "Link": "https://discord.com/users/424899221267939328"
+            },
+            {
+              "Label": "HackZy's GitHub",
+              "Link": "https://GitHub.com/hackzy01"
+            },
+            {
+              "Label": "HackZy's Twitter",
+              "Link": "https://twitter.com/hackzy01"
+            }
+          ]
+        },
+        "Icon": "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.fluentflat/icon.png",
+        "HeaderImage": "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.fluentflat/Header.png",
+        "Screenshot": [
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.fluentflat/Screenshot.png"
+        ],
+        "Releases": [
+          {
+            "Version": "14.0.5",
+            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/com.hackzy.fluentflat.misaka",
+            "Description": "Unicode 14"
+          }
+        ],
+        "PackageID": "com.hackzy.fluentflat"
+      },
+      {
+        "Name": "CleanPrefs",
+        "Description": "feel the joy in simplicity",
+        "Category": "Settings",
+        "Caption": "CleanPrefs aims to simplify and let you customise your Settings page to your liking\n\nCredits for the clever name go to @lunginspector",
+        "MinIOSVersion": "15.0",
+        "MaxIOSVersion": "16.1.2",
+        "accent": "#b3ebbb",
+        "Author": {
+          "Label": "HackZy",
+          "Links": [
+            {
+              "Label": "Discord",
+              "Link": "https://discord.com/users/424899221267939328"
+            },
+            {
+              "Label": "GitHub",
+              "Link": "https://github.com/hackzy01"
+            },
+            {
+              "Label": "Twitter",
+              "Link": "https://twitter.com/hackzy01"
+            }
+          ]
+        },
+        "Icon": "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.cleanprefs/icon.png",
+        "Screenshot": [
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.cleanprefs/ss3.png",
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.cleanprefs/ss1.png"
+        ],
+        "Releases": [
+          {
+            "Version": "2.0 lite",
+            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/com.hackzy.cleanprefslite.misaka",
+            "Description": "iOS 15 version"
+          },
+          {
+            "Version": "2.0",
+            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/com.hackzy.cleanprefs.misaka",
+            "Description": "CleanPrefs 2.0"
+          }
+        ],
+        "PackageID": "com.hackzy.cleanprefs"
+      },
+      {
+        "Name": "Gestureify",
+        "Description": "forget the home button",
+        "Category": "Navigation",
+        "Caption": "Fluid Gesture Navigation for Home Button devices, before applying read the documentation in 'Advanced Settings', it goes throughs basic information and known bugs",
+        "MinIOSVersion": "14.0",
+        "MaxIOSVersion": "16.6",
+        "AdditionalSupportedIOS": {
+          "MinIOSVersion_CustomLabel": "14.0",
+          "MaxIOSVersion_CustomLabel": "16.6b1",
+          "Build": [
+            "20G5026e"
+          ]
+        },
+        "accent": "#b3ebbb",
+        "Author": {
+          "Label": "HackZy",
+          "Links": [
+            {
+              "Label": "Discord",
+              "Link": "https://discord.com/users/424899221267939328"
+            },
+            {
+              "Label": "GitHub",
+              "Link": "https://github.com/hackzy01"
+            },
+            {
+              "Label": "Twitter",
+              "Link": "https://twitter.com/hackzy01"
+            }
+          ]
+        },
+        "Icon": "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.gestures/icon.png",
+        "Screenshot": [
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.gestures/ss1.png",
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.gestures/ss2.png"
+        ],
+        "Releases": [
+          {
+            "Version": "1.2b",
+            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/com.hackzy.gestures.misaka",
+            "Description": "Added a hide homebar function, improved the UI, and added Advanced Restore Options"
+          }
+        ],
+        "PackageID": "com.hackzy.gestures"
+      },
+      {
+        "Name": "Subway Surfers Plus",
+        "Description": "surf like a pro",
+        "Category": "Games",
+        "Caption": "This cheat gives you everything you need to be the best surfer. You get coins, keys, boosters, and more, without spending a single penny\n\nYou can customise the tweak in the 'Advanced Settings' page",
+        "MinIOSVersion": "15.0",
+        "MaxIOSVersion": "16.1.2",
+        "accent": "#b3ebbb",
+        "Author": {
+          "Label": "HackZy",
+          "Links": [
+            {
+              "Label": "Discord",
+              "Link": "https://discord.com/users/424899221267939328"
+            },
+            {
+              "Label": "GitHub",
+              "Link": "https://github.com/hackzy01"
+            },
+            {
+              "Label": "Twitter",
+              "Link": "https://twitter.com/hackzy01"
+            }
+          ]
+        },
+        "Icon": "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.subhack/icon_text.png",
+        "HeaderImage": "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.subhack/Header.png",
+        "Screenshot": [
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.subhack/ss1.png",
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.subhack/ss2.png",
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.subhack/ss3.png",
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.subhack/ss4.png",
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.subhack/ss5.png",
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.subhack/ss6.png"
+        ],
+        "Releases": [
+          {
+            "Version": "1.0",
+            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/com.hackzy.subhack.misaka",
+            "Description": ""
+          },
+          {
+            "Version": "2.0",
+            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/com.hackzy.subhack2.misaka",
+            "Description": "Over 30 new boards and 25 characters and an in-depth Settings page"
+          },
+          {
+            "Version": "2.1",
+            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/com.hackzy.subhack21.misaka",
+            "Description": "New Settings Page redesign, 5 New Features, 3 boards have been added"
+          }
+        ],
+        "PackageID": "com.hackzy.subhack"
+      },
+      {
+        "Name": "Galaxy Fonts",
+        "Description": "express yourself freely",
+        "Category": "Fonts",
+        "Caption": "Ported over OneUI 6 Clock Fonts",
+        "MinIOSVersion": "16.0",
+        "MaxIOSVersion": "16.6",
+        "AdditionalSupportedIOS": {
+          "MinIOSVersion_CustomLabel": "15.0",
+          "MaxIOSVersion_CustomLabel": "16.6b1",
+          "Build": [
+            "20G5026e"
+          ]
+        },
+        "accent": "#b3ebbb",
+        "Author": {
+          "Label": "HackZy",
+          "Links": [
+            {
+              "Label": "Discord",
+              "Link": "https://discord.com/users/424899221267939328"
+            },
+            {
+              "Label": "GitHub",
+              "Link": "https://github.com/hackzy01"
+            },
+            {
+              "Label": "Twitter",
+              "Link": "https://twitter.com/hackzy01"
+            }
+          ]
+        },
+        "Icon": "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.galaxyfonts/icon.png",
+        "Screenshot": [
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.galaxyfonts/ss1.png",
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.galaxyfonts/ss2.png",
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.galaxyfonts/ss3.png"
+        ],
+        "Releases": [
+          {
+            "Version": "1.0",
+            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/com.hackzy.galaxyfonts.misaka",
+            "Description": "Android 14 ✨"
+          }
+        ],
+        "PackageID": "com.hackzy.galaxyfonts"
+      },
+      {
+        "Name": "Galaxy Fonts Legacy",
+        "Description": "express yourself freely with iOS 15",
+        "Category": "Fonts",
+        "Caption": "Ported over OneUI 6 Clock Fonts for iOS 15",
+        "MinIOSVersion": "14.0",
+        "MaxIOSVersion": "15.7.8",
+        "accent": "#b3ebbb",
+        "Author": {
+          "Label": "HackZy",
+          "Links": [
+            {
+              "Label": "Discord",
+              "Link": "https://discord.com/users/424899221267939328"
+            },
+            {
+              "Label": "GitHub",
+              "Link": "https://github.com/hackzy01"
+            },
+            {
+              "Label": "Twitter",
+              "Link": "https://twitter.com/hackzy01"
+            }
+          ]
+        },
+        "Icon": "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.galaxyfonts15/icon.png",
+        "Screenshot": [
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.galaxyfonts15/ss1.png",
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.galaxyfonts15/ss2.png",
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.galaxyfonts15/ss3.png"
+        ],
+        "Releases": [
+          {
+            "Version": "1.0",
+            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/com.hackzy.galaxyfontslegacy.misaka",
+            "Description": "Android 14 ✨"
+          }
+        ],
+        "PackageID": "com.hackzy.galaxyfontslegacy"
+      },
+      {
+        "Name": "Media Molecule Fonts",
+        "Description": "relive your memories in style",
+        "Category": "Fonts",
+        "Caption": "Clock Fonts ported from LittleBigPlanet, Dreams and Tearaway",
+        "MinIOSVersion": "16.0",
+        "MaxIOSVersion": "16.6",
+        "AdditionalSupportedIOS": {
+          "MinIOSVersion_CustomLabel": "15.0",
+          "MaxIOSVersion_CustomLabel": "16.6b1",
+          "Build": [
+            "20G5026e"
+          ]
+        },
+        "accent": "#b3ebbb",
+        "Author": {
+          "Label": "HackZy",
+          "Links": [
+            {
+              "Label": "Media Molecule's Website",
+              "Link": "https://www.mediamolecule.com/"
+            },
+            {
+              "Label": "HackZy's Discord",
+              "Link": "https://discord.com/users/424899221267939328"
+            },
+            {
+              "Label": "HackZy's GitHub",
+              "Link": "https://github.com/hackzy01"
+            },
+            {
+              "Label": "HackZy's Twitter",
+              "Link": "https://twitter.com/hackzy01"
+            }
+          ]
+        },
+        "Icon": "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.mmfonts/icon.png",
+        "Screenshot": [
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.mmfonts/ss1.png",
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.mmfonts/ss2.png",
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.mmfonts/ss3.png"
+        ],
+        "Releases": [
+          {
+            "Version": "1.0",
+            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/com.hackzy.mmfonts.misaka",
+            "Description": ""
+          }
+        ],
+        "PackageID": "com.hackzy.mmfonts"
+      },
+      {
+        "Name": "Dawnbreaker",
+        "Description": "iOS 17 Ringtones",
+        "Category": "Sound",
+        "Caption": "✦ ʀɪɴɢᴛᴏɴᴇs\n\nOpening ➜ Steps,\n\nReflection ➜ Reflection,\n\nApex ➜ Valley,\n\nSilk ➜ Daybreak,\n\nUplift ➜ Tease,\n\nCircuit ➜ Kettle,\n\nPlayTime ➜ Milky Way,\n\nConstelation ➜ Departure,\n\nSummit ➜ Breaking",
+        "MinIOSVersion": "15.0",
+        "MaxIOSVersion": "16.6",
+        "AdditionalSupportedIOS": {
+          "MinIOSVersion_CustomLabel": "15.0",
+          "MaxIOSVersion_CustomLabel": "16.6b1",
+          "Build": [
+            "20G5026e"
+          ]
+        },
+        "accent": "#b3ebbb",
+        "Author": {
+          "Label": "HackZy",
+          "Links": [
+            {
+              "Label": "HackZy's Discord",
+              "Link": "https://discord.com/users/424899221267939328"
+            },
+            {
+              "Label": "HackZy's GitHub",
+              "Link": "https://github.com/hackzy01"
+            },
+            {
+              "Label": "HackZy's Twitter",
+              "Link": "https://twitter.com/hackzy01"
+            }
+          ]
+        },
+        "Icon": "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.dawnbreaker/icon.png",
+        "Screenshot": [],
+        "Releases": [
+          {
+            "Version": "1.0",
+            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/com.hackzy.dawnbreaker.misaka",
+            "Description": ""
+          }
+        ],
+        "PackageID": "com.hackzy.dawnbreaker"
+      },
+      {
+        "Name": "SamsungOne Font",
+        "Description": "smooth and sleek",
+        "Category": "Fonts",
+        "Caption": "The font is designed to symbolize reliability and expertise with handwriting-like details that add a human touch",
+        "MinIOSVersion": "15.0",
+        "MaxIOSVersion": "16.6",
+        "AdditionalSupportedIOS": {
+          "MinIOSVersion_CustomLabel": "15.0",
+          "MaxIOSVersion_CustomLabel": "16.6b1",
+          "Build": [
+            "20G5026e"
+          ]
+        },
+        "accent": "#b3ebbb",
+        "Author": {
+          "Label": "HackZy & Alexman",
+          "Links": [
+            {
+              "Label": "Alexman's Twitter",
+              "Link": "https://twitter.com/Alexman1979/"
+            },
+            {
+              "Label": "HackZy's Discord",
+              "Link": "https://discord.com/users/424899221267939328"
+            },
+            {
+              "Label": "HackZy's GitHub",
+              "Link": "https://GitHub.com/hackzy01"
+            },
+            {
+              "Label": "HackZy's Twitter",
+              "Link": "https://twitter.com/hackzy01"
+            }
+          ]
+        },
+        "Icon": "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.samsungone/icon.png",
+        "Screenshot": [
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.samsungone/ss1.png",
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.samsungone/ss2.png",
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.samsungone/ss3.png",
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.samsungone/ss4.png"
+        ],
+        "Releases": [
+          {
+            "Version": "1.0",
+            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/com.hackzy.samsungone.misaka",
+            "Description": "cha cha real smooth"
+          }
+        ],
+        "PackageID": "com.hackzy.samsungone"
+      },
+      {
+        "Name": "Meloso (100%)",
+        "Description": "playful font with a hand-drawn charm",
+        "Category": "Fonts",
+        "Caption": "Meloso is a font which has a playful and organic feel that has its own hand-drawn charm.",
+        "MinIOSVersion": "15.0",
+        "MaxIOSVersion": "16.6",
+        "AdditionalSupportedIOS": {
+          "MinIOSVersion_CustomLabel": "15.0",
+          "MaxIOSVersion_CustomLabel": "16.6b1",
+          "Build": [
+            "20G5026e"
+          ]
+        },
+        "accent": "#b3ebbb",
+        "Author": {
+          "Label": "HackZy & Alexman",
+          "Links": [
+            {
+              "Label": "Alexman's Twitter",
+              "Link": "https://twitter.com/Alexman1979/"
+            },
+            {
+              "Label": "HackZy's Discord",
+              "Link": "https://discord.com/users/424899221267939328"
+            },
+            {
+              "Label": "HackZy's GitHub",
+              "Link": "https://GitHub.com/hackzy01"
+            },
+            {
+              "Label": "HackZy's Twitter",
+              "Link": "https://twitter.com/hackzy01"
+            }
+          ]
+        },
+        "Icon": "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.meloso/icon_color.png",
+        "Screenshot": [
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.meloso/Screenshot1.png",
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.meloso/Screenshot2.png",
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.meloso/Screenshot3.png",
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.meloso/Screenshot4.png"
+        ],
+        "Releases": [
+          {
+            "Version": "1.0",
+            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/archived/com.hackzy.meloso/1.0.misaka",
+            "Description": "It works"
+          },
+          {
+            "Version": "1.1",
+            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/com.hackzy.meloso.misaka",
+            "Description": "20.3MB -> 1MB, no font too big errors"
+          }
+        ],
+        "PackageID": "com.hackzy.meloso"
+      },
+      {
+        "Name": "Meloso (85%)",
+        "Description": "playful font with hand-drawn charm",
+        "Category": "Fonts",
+        "Caption": "Meloso is a font which has a playful and organic feel that has its own hand-drawn charm.",
+        "MinIOSVersion": "15.0",
+        "MaxIOSVersion": "16.6",
+        "AdditionalSupportedIOS": {
+          "MinIOSVersion_CustomLabel": "15.0",
+          "MaxIOSVersion_CustomLabel": "16.6b1",
+          "Build": [
+            "20G5026e"
+          ]
+        },
+        "accent":"#b3ebbb",
+        "Author": {
+          "Label": "HackZy & Alexman",
+          "Links": [
+            {
+              "Label": "Alexman's Twitter",
+              "Link": "https://twitter.com/Alexman1979/"
+            },
+            {
+              "Label": "HackZy's Discord",
+              "Link": "https://discord.com/users/424899221267939328"
+            },
+            {
+              "Label": "HackZy's GitHub",
+              "Link": "https://GitHub.com/hackzy01"
+            },
+            {
+              "Label": "HackZy's Twitter",
+              "Link": "https://twitter.com/hackzy01"
+            }
+          ]
+        },
+        "Icon": "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.meloso85/icon_color.png",
+        "Screenshot": [
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.meloso85/Screenshot1.png",
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.meloso85/Screenshot2.png",
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.meloso85/Screenshot3.png",
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.meloso85/Screenshot4.png"
+        ],
+        "Releases": [
+          {
+            "Version": "1.1",
+            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/com.hackzy.meloso85.misaka",
+            "Description": "1st release"
+          }
+        ],
+        "PackageID": "com.hackzy.meloso85"
+      },
+      {
+        "Name": "Limitless",
+        "Description": "rules are there to be broken",
+        "Category": "Other",
+        "Caption": "Removes the volume limit from European iPhones",
+        "MinIOSVersion": "14.0",
+        "MaxIOSVersion": "16.6",
+        "AdditionalSupportedIOS": {
+          "MinIOSVersion_CustomLabel": "14.0",
+          "MaxIOSVersion_CustomLabel": "16.6b1",
+          "Build": [
+            "20G5026e"
+          ]
+        },
+        "accent":"#b3ebbb",
+        "Author": {
+          "Label": "Constantin & HackZy",
+          "Links": [
+            {
+              "Label": "Constantin's Discord",
+              "Link": "https://discord.com/users/950474697898868786"
+            },
+            {
+              "Label": "HackZy's Discord",
+              "Link": "https://discord.com/users/424899221267939328"
+            }
+          ]
+        },
+        "Icon": "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.constantin.limitless/icon.png",
+        "Screenshot": [],
+        "Releases": [
+          {
+            "Version": "1.0",
+            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/com.constantin.limitless.misaka",
+            "Description": ""
+          }
+        ],
+        "PackageID": "com.constantin.limitless"
+      },
+      {
+        "Name": "Pixel LS UI",
+        "Description": "a different flavour",
+        "Category": "Lock Screen",
+        "Caption": "Replaces your LS Quick Toggle icons with the ones found on Android",
+        "MinIOSVersion": "15.0",
+        "MaxIOSVersion": "16.6",
+        "AdditionalSupportedIOS": {
+          "MinIOSVersion_CustomLabel": "15.0",
+          "MaxIOSVersion_CustomLabel": "16.6b1",
+          "Build": [
+            "20G5026e"
+          ]
+        },
+        "accent":"#b3ebbb",
+        "Author": {
+          "Label": "HackZy",
+          "Links": [
+            {
+              "Label": "Discord",
+              "Link": "https://discord.com/users/424899221267939328"
+            },
+            {
+              "Label": "GitHub",
+              "Link": "https://github.com/hackzy01"
+            },
+            {
+              "Label": "Twitter",
+              "Link": "https://twitter.com/hackzy01"
+            }
+          ]
+        },
+        "Icon": "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.pxlsui/icon.png",
+        "Screenshot": [
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.pxlsui/ss1.png",
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.pxlsui/ss2.png"
+        ],
+        "Releases": [
+          {
+            "Version": "1.0",
+            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/com.hackzy.pxlsui.misaka",
+            "Description": "Adrod 13"
+          }
+        ],
+        "PackageID": "com.hackzy.pxlsui"
+      },
+      {
+        "Name": "OneUI LS UI",
+        "Description": "simple and nice looking",
+        "Category": "Lock Screen",
+        "Caption": "OneUI Lock Screen Toggle Icons",
+        "MinIOSVersion": "15.0",
+        "MaxIOSVersion": "16.6",
+        "AdditionalSupportedIOS": {
+          "MinIOSVersion_CustomLabel": "15.0",
+          "MaxIOSVersion_CustomLabel": "16.6b1",
+          "Build": [
+            "20G5026e"
+          ]
+        },
+        "accent":"#b3ebbb",
+        "Author": {
+          "Label": "HackZy",
+          "Links": [
+            {
+              "Label": "Discord",
+              "Link": "https://discord.com/users/424899221267939328"
+            },
+            {
+              "Label": "GitHub",
+              "Link": "https://GitHub.com/hackzy01"
+            },
+            {
+              "Label": "Twitter",
+              "Link": "https://twitter.com/hackzy01"
+            }
+          ]
+        },
+        "Icon": "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.oneuisettings/icon.png",
+        "Screenshot": [
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.oneuils/ss1.png"
+        ],
+        "Releases": [
+          {
+            "Version": "1.0",
+            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/com.hackzy.oneuils.misaka",
+            "Description": ""
+          }
+        ],
+        "PackageID": "com.hackzy.oneuils"
+      },
+      {
+        "Name": "Checkl0ck",
+        "Description": "give your lock screen a jailbreak touch",
+        "Category": "Lock Screen",
+        "Caption": "Replaces the Lock Screen padlock icon with the Checkra1n symbol\n\nBased on a jailbreak tweak called LatchKey",
+        "MinIOSVersion": "15.0",
+        "MaxIOSVersion": "16.6",
+        "AdditionalSupportedIOS": {
+          "MinIOSVersion_CustomLabel": "15.0",
+          "MaxIOSVersion_CustomLabel": "16.6b1",
+          "Build": [
+            "20G5026e"
+          ]
+        },
+        "accent":"#b3ebbb",
+        "Author": {
+          "Label": "HackZy",
+          "Links": [
+            {
+              "Label": "Discord",
+              "Link": "https://discord.com/users/424899221267939328"
+            },
+            {
+              "Label": "GitHub",
+              "Link": "https://github.com/hackzy01"
+            },
+            {
+              "Label": "Twitter",
+              "Link": "https://twitter.com/hackzy01"
+            }
+          ]
+        },
+        "Icon": "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.checklock/icon.png",
+        "Screenshot": [
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.checklock/Screenshot1.png",
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.checklock/Screenshot2.png"
+        ],
+        "Releases": [
+          {
+            "Version": "1.1",
+            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/com.hackzy.checklock.misaka",
+            "Description": "Good luck"
+          }
+        ],
+        "PackageID": "com.hackzy.checklock"
+      },
+      {
+        "Name": "Negative Dock",
+        "Description": "a unique and beautiful dock",
+        "Category": "Dock",
+        "Caption": "Changes the appearence of your dock",
+        "MinIOSVersion": "15.0",
+        "MaxIOSVersion": "16.6",
+        "AdditionalSupportedIOS": {
+          "MinIOSVersion_CustomLabel": "15.0",
+          "MaxIOSVersion_CustomLabel": "16.6b1",
+          "Build": [
+            "20G5026e"
+          ]
+        },
+        "accent":"#b3ebbb",
+        "Author": {
+          "Label": "HackZy",
+          "Links": [
+            {
+              "Label": "Discord",
+              "Link": "https://discord.com/users/424899221267939328"
+            },
+            {
+              "Label": "GitHub",
+              "Link": "https://github.com/hackzy01"
+            },
+            {
+              "Label": "Twitter",
+              "Link": "https://twitter.com/hackzy01"
+            }
+          ]
+        },
+        "Icon": "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.negativedock/icon.png",
+        "Screenshot": [
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.negativedock/ss1.png",
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.negativedock/ss2.png",
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.negativedock/ss3.png"
+        ],
+        "Releases": [
+          {
+            "Version": "1.0",
+            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/com.hackzy.negativedock.misaka",
+            "Description": "1st release"
+          }
+        ],
+        "PackageID": "com.hackzy.negativedock"
+      },
+      {
+        "Name": "Passcode Customiser",
+        "Description": "spice up your PIN Code",
+        "Category": "Lock Screen",
+        "Caption": "Change your passcode keys",
+        "MinIOSVersion": "15.0",
+        "MaxIOSVersion": "16.1.2",
+        "accent":"#b3ebbb",
+        "Author": {
+          "Label": "HackZy",
+          "Links": [
+            {
+              "Label": "Discord",
+              "Link": "https://discord.com/users/424899221267939328"
+            },
+            {
+              "Label": "GitHub",
+              "Link": "https://github.com/hackzy01"
+            },
+            {
+              "Label": "Twitter",
+              "Link": "https://twitter.com/hackzy01"
+            }
+          ]
+        },
+        "Icon": "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.passcodecustomiser/icon.png",
+        "Screenshot": [
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.passcodecustomiser/ss1.png"
+        ],
+        "Releases": [
+          {
+            "Version": "1.0",
+            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/archived/com.hackzy.passcodecustomiser/1.0/com.hackzy.passcodecustomiser.misaka",
+            "Description": "Download if you want True Size scaling"
+          },
+          {
+            "Version": "1.1",
+            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/com.hackzy.passcodecustomiser.misaka",
+            "Description": "Spicier 🌯"
+          }
+        ],
+        "PackageID": "com.hackzy.passcodecustomiser"
+      },
+      {
+        "Name": "Nothing Passcode",
+        "Description": "nothing to see here",
+        "Category": "Theme",
+        "Caption": "a passcode theme that uses Nothing's NDOT55 Font",
+        "MinIOSVersion": "15.0",
+        "MaxIOSVersion": "16.1.2",
+        "accent":"#b3ebbb",
+        "Author": {
+          "Label": "HackZy",
+          "Links": [
+            {
+              "Label": "Discord",
+              "Link": "https://discord.com/users/424899221267939328"
+            },
+            {
+              "Label": "GitHub",
+              "Link": "https://github.com/hackzy01"
+            },
+            {
+              "Label": "Twitter",
+              "Link": "https://twitter.com/hackzy01"
+            }
+          ]
+        },
+        "Icon": "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.ndot55pass/icon.png",
+        "Screenshot": [
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.ndot55pass/ss1.png",
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.ndot55pass/ss2.png",
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.ndot55pass/ss3.png"
+        ],
+        "Releases": [
+          {
+            "Version": "1.0",
+            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/com.hackzy.ndot55pass.misaka",
+            "Description": "Ndot 🔥"
+          }
+        ],
+        "PackageID": "com.hackzy.ndot55pass"
+      },
+      {
+        "Name": "Material Pass",
+        "Description": "fresh and minimalistic",
+        "Category": "Lock Screen",
+        "Caption": "Changes your passcode entry screen to a one that resembles Android by a little",
+        "MinIOSVersion": "15.0",
+        "MaxIOSVersion": "16.6",
+        "AdditionalSupportedIOS": {
+          "MinIOSVersion_CustomLabel": "15.0",
+          "MaxIOSVersion_CustomLabel": "16.6b1",
+          "Build": [
+            "20G5026e"
+          ]
+        },
+        "accent":"#b3ebbb",
+        "Author": {
+          "Label": "HackZy",
+          "Links": [
+            {
+              "Label": "Discord",
+              "Link": "https://discord.com/users/424899221267939328"
+            },
+            {
+              "Label": "GitHub",
+              "Link": "https://github.com/hackzy01"
+            },
+            {
+              "Label": "Twitter",
+              "Link": "https://twitter.com/hackzy01"
+            }
+          ]
+        },
+        "Icon": "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.materialpass/icon.png",
+        "Screenshot": [
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.materialpass/gif.gif",
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.materialpass/ss1.png",
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.materialpass/ss2.png"
+        ],
+        "Releases": [
+          {
+            "Version": "1.0",
+            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/com.hackzy.materialpass.misaka",
+            "Description": "1st release"
+          }
+        ],
+        "PackageID": "com.hackzy.materialpass"
+      },
+      {
+        "Name": "OneUI Settings",
+        "Description": "simple and vibrant",
+        "Category": "Theme",
+        "Caption": "OneUI icon theme for Settings",
+        "MinIOSVersion": "15.0",
+        "MaxIOSVersion": "16.1.2",
+        "accent":"#b3ebbb",
+        "Author": {
+          "Label": "HackZy",
+          "Links": [
+            {
+              "Label": "Discord",
+              "Link": "https://discord.com/users/424899221267939328"
+            },
+            {
+              "Label": "GitHub",
+              "Link": "https://github.com/hackzy01"
+            },
+            {
+              "Label": "Twitter",
+              "Link": "https://twitter.com/hackzy01"
+            }
+          ]
+        },
+        "Icon": "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.oneuisettings/icon.png",
+        "Screenshot": [
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.oneuisettings/ss1.png",
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.oneuisettings/ss2.png",
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.oneuisettings/ss3.png"
+        ],
+        "Releases": [
+          {
+            "Version": "1.0.1",
+            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/com.hackzy.oneuisettings.misaka",
+            "Description": "NVT2 fix"
+          }
+        ],
+        "PackageID": "com.hackzy.oneuisettings"
+      },
+      {
+        "Name": "OneUI Control Centre",
+        "Description": "an update is in the works",
+        "Category": "Control Center",
+        "Caption": "Wanted a Samsung and a good experience?\nGoes really well with the Tomorrow Clock Font",
+        "MinIOSVersion": "15.0",
+        "MaxIOSVersion": "16.6",
+        "AdditionalSupportedIOS": {
+          "MinIOSVersion_CustomLabel": "15.0",
+          "MaxIOSVersion_CustomLabel": "16.6b1",
+          "Build": [
+            "20G5026e"
+          ]
+        },
+        "accent":"#b3ebbb",
+        "Author": {
+          "Label": "HackZy",
+          "Links": [
+            {
+              "Label": "Discord",
+              "Link": "https://discord.com/users/424899221267939328"
+            },
+            {
+              "Label": "GitHub",
+              "Link": "https://github.com/hackzy01"
+            },
+            {
+              "Label": "Twitter",
+              "Link": "https://twitter.com/hackzy01"
+            }
+          ]
+        },
+        "Icon": "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.onecc/icon_new.png",
+        "Screenshot": [
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.onecc/Screenshot1.png",
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.onecc/Screenshot2.png"
+        ],
+        "Releases": [
+          {
+            "Version": "1.0",
+            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/com.hackzy.onecc.misaka",
+            "Description": "Special credits to YangJii who's method is used in this tweak"
+          }
+        ],
+        "PackageID": "com.hackzy.onecc"
+      },
+      {
+        "Name": "Galactic Charge",
+        "Description": "embrace the unknown",
+        "Category": "Sound",
+        "Caption": "Unleash the unknown power of the galaxy",
+        "MinIOSVersion": "15.0",
+        "MaxIOSVersion": "16.6",
+        "AdditionalSupportedIOS": {
+          "MinIOSVersion_CustomLabel": "15.0",
+          "MaxIOSVersion_CustomLabel": "16.6b1",
+          "Build": [
+            "20G5026e"
+          ]
+        },
+        "accent":"#b3ebbb",
+        "Author": {
+          "Label": "HackZy",
+          "Links": [
+            {
+              "Label": "Discord",
+              "Link": "https://discord.com/users/424899221267939328"
+            },
+            {
+              "Label": "GitHub",
+              "Link": "https://github.com/hackzy01"
+            },
+            {
+              "Label": "Twitter",
+              "Link": "https://twitter.com/hackzy01"
+            }
+          ]
+        },
+        "Icon": "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.scharge/icon.png",
+        "Screenshot": [
+          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.scharge/vid1.mov?loop=1&autoplay=1"
+        ],
+        "Releases": [
+          {
+            "Version": "1.0.2",
+            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/com.hackzy.scharge.misaka",
+            "Description": "Metadata Update 2"
+          }
+        ],
+        "PackageID": "com.hackzy.galacticcharge"
+      }
+    ]
+  }
+  
