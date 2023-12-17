@@ -48,7 +48,7 @@
         "Releases": [
           {
             "Version": "1.0",
-            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/com.hackzy.windowsphone.misaka",
+            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/archived/com.hackzy.windowsphone/1.0/com.hackzy.windowsphone.misaka",
             "Description": "✨Nostalgia✨"
           },
           {
@@ -282,18 +282,23 @@
         "Releases": [
           {
             "Version": "1.0",
-            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/com.hackzy.subhack.misaka",
-            "Description": ""
+            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/archived/com.hackzy.subhack/1.0/com.hackzy.subhack.misaka",
+            "Description": "First, really bare bones release"
           },
           {
             "Version": "2.0",
-            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/com.hackzy.subhack2.misaka",
+            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/archived/com.hackzy.subhack/2.0/com.hackzy.subhack.misaka",
             "Description": "Over 30 new boards and 25 characters and an in-depth Settings page"
           },
           {
             "Version": "2.1",
-            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/com.hackzy.subhack21.misaka",
+            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/archived/com.hackzy.subhack/2.1/com.hackzy.subhack.misaka",
             "Description": "New Settings Page redesign, 5 New Features, 3 boards have been added"
+          },
+          {
+            "Version": "2.2",
+            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/com.hackzy.subhack.misaka",
+            "Description": "Characters and Boards from 3.22.0"
           }
         ],
         "PackageID": "com.hackzy.subhack"
