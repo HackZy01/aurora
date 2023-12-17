@@ -1,11 +1,11 @@
 {
     "RepositoryName": "Aurora",
-    "RepositoryDescription": "Aurora – where customization knows no bounds",
-    "RepositoryAuthor": "HackZy",
-    "RepositoryIcon": "https://raw.githubusercontent.com/hackzy01/aurora/main/images/Repository.png",
+    "RepositoryDescription": "customization knows no bounds",
+    "RepositoryAuthor": "HackZ",
+    "RepositoryIcon": "https://raw.githubusercontent.com/hackzy01/aurora/main/assets/Repository.png",
     "RepositoryWebsite": "https://github.com/hackzy01/aurora",
     "Default": {
-      "HeaderImage": "https://raw.githubusercontent.com/hackzy01/aurora/main/images/Header.png",
+      "HeaderImage": "https://raw.githubusercontent.com/hackzy01/aurora/main/assets/Header.png",
       "ViewCount": true
     },
     "RepositoryAccent": "#b3ebbb",
