@@ -374,6 +374,7 @@
           "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.galaxyfonts15/ss2.png",
           "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.galaxyfonts15/ss3.png"
         ],
+        "compatibleExploit": ["MDC", "KFD"],
         "Releases": [
           {
             "Version": "1.0",
@@ -424,6 +425,7 @@
           "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.mmfonts/ss2.png",
           "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.mmfonts/ss3.png"
         ],
+        "compatibleExploit": ["MDC", "KFD"],
         "Releases": [
           {
             "Version": "1.0",
@@ -527,7 +529,7 @@
         "PackageID": "com.hackzy.samsungone"
       },
       {
-        "Name": "Meloso (100%)",
+        "Name": "Meloso",
         "Description": "playful font with a hand-drawn charm",
         "Category": "Fonts",
         "Caption": "Meloso is a font which has a playful and organic feel that has its own hand-drawn charm.",
@@ -570,68 +572,12 @@
         ],
         "Releases": [
           {
-            "Version": "1.0",
-            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/archived/com.hackzy.meloso/1.0.misaka",
-            "Description": "It works"
-          },
-          {
-            "Version": "1.1",
+            "Version": "1.2",
             "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/com.hackzy.meloso.misaka",
-            "Description": "20.3MB -> 1MB, no font too big errors"
+            "Description": "Merged both packages"
           }
         ],
         "PackageID": "com.hackzy.meloso"
-      },
-      {
-        "Name": "Meloso (85%)",
-        "Description": "playful font with hand-drawn charm",
-        "Category": "Fonts",
-        "Caption": "Meloso is a font which has a playful and organic feel that has its own hand-drawn charm.",
-        "MinIOSVersion": "15.0",
-        "MaxIOSVersion": "16.6",
-        "AdditionalSupportedIOS": {
-          "MinIOSVersion_CustomLabel": "15.0",
-          "MaxIOSVersion_CustomLabel": "16.6b1",
-          "Build": [
-            "20G5026e"
-          ]
-        },
-        "Author": {
-          "Label": "HackZy & Alexman",
-          "Links": [
-            {
-              "Label": "Alexman's Twitter",
-              "Link": "https://twitter.com/Alexman1979/"
-            },
-            {
-              "Label": "HackZy's Discord",
-              "Link": "https://discord.com/users/424899221267939328"
-            },
-            {
-              "Label": "HackZy's GitHub",
-              "Link": "https://GitHub.com/hackzy01"
-            },
-            {
-              "Label": "HackZy's Twitter",
-              "Link": "https://twitter.com/hackzy01"
-            }
-          ]
-        },
-        "Icon": "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.meloso85/icon_color.png",
-        "Screenshot": [
-          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.meloso85/Screenshot1.png",
-          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.meloso85/Screenshot2.png",
-          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.meloso85/Screenshot3.png",
-          "https://raw.githubusercontent.com/hackzy01/aurora/main/images/com.hackzy.meloso85/Screenshot4.png"
-        ],
-        "Releases": [
-          {
-            "Version": "1.1",
-            "Package": "https://raw.githubusercontent.com/hackzy01/aurora/main/tweaks/com.hackzy.meloso85.misaka",
-            "Description": "1st release"
-          }
-        ],
-        "PackageID": "com.hackzy.meloso85"
       },
       {
         "Name": "Limitless",
