@@ -15,14 +15,7 @@
         "Category": "Sounds",
         "Caption": "Step into a world of nostalgia, evoking memories of simpler times",
         "MinIOSVersion": "15.0",
-        "MaxIOSVersion": "16.6",
-        "AdditionalSupportedIOS": {
-          "MinIOSVersion_CustomLabel": "15.0",
-          "MaxIOSVersion_CustomLabel": "16.6b1",
-          "Build": [
-            "20G5026e"
-          ]
-        },
+        "MaxIOSVersion": "16.6.1",
         "Author": {
           "Label": "HackZy",
           "Links": [
@@ -65,14 +58,7 @@
         "Category": "Fonts",
         "Caption": "JoyPixels Emoji Font for iOS",
         "MinIOSVersion": "15.0",
-        "MaxIOSVersion": "16.6",
-        "AdditionalSupportedIOS": {
-          "MinIOSVersion_CustomLabel": "15.0",
-          "MaxIOSVersion_CustomLabel": "16.6b1",
-          "Build": [
-            "20G5026e"
-          ]
-        },
+        "MaxIOSVersion": "16.6.1",
         "Author": {
           "Label": "HackZy & PoomSmart",
           "Links": [
@@ -114,14 +100,7 @@
         "Category": "Fonts",
         "Caption": "Fluent Emoji Font for iOS\n\nIt's pretty cute ngl",
         "MinIOSVersion": "15.0",
-        "MaxIOSVersion": "16.6",
-        "AdditionalSupportedIOS": {
-          "MinIOSVersion_CustomLabel": "15.0",
-          "MaxIOSVersion_CustomLabel": "16.6b1",
-          "Build": [
-            "20G5026e"
-          ]
-        },
+        "MaxIOSVersion": "16.6.1",
         "Author": {
           "Label": "HackZy & PoomSmart",
           "Links": [
@@ -163,7 +142,7 @@
         "Category": "Settings",
         "Caption": "CleanPrefs aims to simplify and let you customise your Settings page to your liking\n\nCredits for the clever name go to @lunginspector",
         "MinIOSVersion": "15.0",
-        "MaxIOSVersion": "16.1.2",
+        "MaxIOSVersion": "16.6.1",
         "Author": {
           "Label": "HackZy",
           "Links": [
@@ -251,7 +230,7 @@
         "Category": "Games",
         "Caption": "This cheat gives you everything you need to be the best surfer. You get coins, keys, boosters, and more, without spending a single penny\n\nYou can customise the tweak in the 'Advanced Settings' page",
         "MinIOSVersion": "15.0",
-        "MaxIOSVersion": "16.1.2",
+        "MaxIOSVersion": "16.6.1",
         "Author": {
           "Label": "HackZy",
           "Links": [
@@ -309,14 +288,7 @@
         "Category": "Fonts",
         "Caption": "Ported over OneUI 6 Clock Fonts",
         "MinIOSVersion": "16.0",
-        "MaxIOSVersion": "16.6",
-        "AdditionalSupportedIOS": {
-          "MinIOSVersion_CustomLabel": "15.0",
-          "MaxIOSVersion_CustomLabel": "16.6b1",
-          "Build": [
-            "20G5026e"
-          ]
-        },
+        "MaxIOSVersion": "16.6.1",
         "Author": {
           "Label": "HackZy",
           "Links": [
@@ -395,14 +367,7 @@
         "Category": "Fonts",
         "Caption": "Clock Fonts ported from LittleBigPlanet, Dreams and Tearaway",
         "MinIOSVersion": "16.0",
-        "MaxIOSVersion": "16.6",
-        "AdditionalSupportedIOS": {
-          "MinIOSVersion_CustomLabel": "15.0",
-          "MaxIOSVersion_CustomLabel": "16.6b1",
-          "Build": [
-            "20G5026e"
-          ]
-        },
+        "MaxIOSVersion": "16.6.1",
         "Author": {
           "Label": "HackZy",
           "Links": [
@@ -446,14 +411,7 @@
         "Category": "Sound",
         "Caption": "✦ ʀɪɴɢᴛᴏɴᴇs\n\nOpening ➜ Steps,\n\nReflection ➜ Reflection,\n\nApex ➜ Valley,\n\nSilk ➜ Daybreak,\n\nUplift ➜ Tease,\n\nCircuit ➜ Kettle,\n\nPlayTime ➜ Milky Way,\n\nConstelation ➜ Departure,\n\nSummit ➜ Breaking",
         "MinIOSVersion": "15.0",
-        "MaxIOSVersion": "16.6",
-        "AdditionalSupportedIOS": {
-          "MinIOSVersion_CustomLabel": "15.0",
-          "MaxIOSVersion_CustomLabel": "16.6b1",
-          "Build": [
-            "20G5026e"
-          ]
-        },
+        "MaxIOSVersion": "16.6.1",
         "Author": {
           "Label": "HackZy",
           "Links": [
@@ -488,14 +446,7 @@
         "Category": "Fonts",
         "Caption": "The font is designed to symbolize reliability and expertise with handwriting-like details that add a human touch",
         "MinIOSVersion": "15.0",
-        "MaxIOSVersion": "16.6",
-        "AdditionalSupportedIOS": {
-          "MinIOSVersion_CustomLabel": "15.0",
-          "MaxIOSVersion_CustomLabel": "16.6b1",
-          "Build": [
-            "20G5026e"
-          ]
-        },
+        "MaxIOSVersion": "16.6.1",
         "Author": {
           "Label": "HackZy & Alexman",
           "Links": [
@@ -539,14 +490,7 @@
         "Category": "Fonts",
         "Caption": "Meloso is a font which has a playful and organic feel that has its own hand-drawn charm.",
         "MinIOSVersion": "15.0",
-        "MaxIOSVersion": "16.6",
-        "AdditionalSupportedIOS": {
-          "MinIOSVersion_CustomLabel": "15.0",
-          "MaxIOSVersion_CustomLabel": "16.6b1",
-          "Build": [
-            "20G5026e"
-          ]
-        },
+        "MaxIOSVersion": "16.6.1",
         "Author": {
           "Label": "HackZy & Alexman",
           "Links": [
@@ -626,14 +570,7 @@
         "Category": "Lock Screen",
         "Caption": "Replaces your LS Quick Toggle icons with the ones found on Android",
         "MinIOSVersion": "15.0",
-        "MaxIOSVersion": "16.6",
-        "AdditionalSupportedIOS": {
-          "MinIOSVersion_CustomLabel": "15.0",
-          "MaxIOSVersion_CustomLabel": "16.6b1",
-          "Build": [
-            "20G5026e"
-          ]
-        },
+        "MaxIOSVersion": "16.6.1",
         "Author": {
           "Label": "HackZy",
           "Links": [
@@ -671,14 +608,7 @@
         "Category": "Lock Screen",
         "Caption": "OneUI Lock Screen Toggle Icons",
         "MinIOSVersion": "15.0",
-        "MaxIOSVersion": "16.6",
-        "AdditionalSupportedIOS": {
-          "MinIOSVersion_CustomLabel": "15.0",
-          "MaxIOSVersion_CustomLabel": "16.6b1",
-          "Build": [
-            "20G5026e"
-          ]
-        },
+        "MaxIOSVersion": "16.6.1",
         "Author": {
           "Label": "HackZy",
           "Links": [
@@ -715,14 +645,7 @@
         "Category": "Lock Screen",
         "Caption": "Replaces the Lock Screen padlock icon with the Checkra1n symbol\n\nBased on a jailbreak tweak called LatchKey",
         "MinIOSVersion": "15.0",
-        "MaxIOSVersion": "16.6",
-        "AdditionalSupportedIOS": {
-          "MinIOSVersion_CustomLabel": "15.0",
-          "MaxIOSVersion_CustomLabel": "16.6b1",
-          "Build": [
-            "20G5026e"
-          ]
-        },
+        "MaxIOSVersion": "16.6.1",
         "Author": {
           "Label": "HackZy",
           "Links": [
@@ -760,14 +683,7 @@
         "Category": "Dock",
         "Caption": "Changes the appearence of your dock",
         "MinIOSVersion": "15.0",
-        "MaxIOSVersion": "16.6",
-        "AdditionalSupportedIOS": {
-          "MinIOSVersion_CustomLabel": "15.0",
-          "MaxIOSVersion_CustomLabel": "16.6b1",
-          "Build": [
-            "20G5026e"
-          ]
-        },
+        "MaxIOSVersion": "16.6.1",
         "Author": {
           "Label": "HackZy",
           "Links": [
@@ -806,7 +722,7 @@
         "Category": "Lock Screen",
         "Caption": "Change your passcode keys",
         "MinIOSVersion": "15.0",
-        "MaxIOSVersion": "16.1.2",
+        "MaxIOSVersion": "16.6.1",
         "Author": {
           "Label": "HackZy",
           "Links": [
@@ -848,7 +764,7 @@
         "Category": "Theme",
         "Caption": "a passcode theme that uses Nothing's NDOT55 Font",
         "MinIOSVersion": "15.0",
-        "MaxIOSVersion": "16.1.2",
+        "MaxIOSVersion": "16.6.1",
         "Author": {
           "Label": "HackZy",
           "Links": [
@@ -887,14 +803,7 @@
         "Category": "Lock Screen",
         "Caption": "Changes your passcode entry screen to a one that resembles Android by a little",
         "MinIOSVersion": "15.0",
-        "MaxIOSVersion": "16.6",
-        "AdditionalSupportedIOS": {
-          "MinIOSVersion_CustomLabel": "15.0",
-          "MaxIOSVersion_CustomLabel": "16.6b1",
-          "Build": [
-            "20G5026e"
-          ]
-        },
+        "MaxIOSVersion": "16.6.1",
         "Author": {
           "Label": "HackZy",
           "Links": [
@@ -933,7 +842,7 @@
         "Category": "Theme",
         "Caption": "OneUI icon theme for Settings",
         "MinIOSVersion": "15.0",
-        "MaxIOSVersion": "16.1.2",
+        "MaxIOSVersion": "16.6.1",
         "Author": {
           "Label": "HackZy",
           "Links": [
@@ -972,14 +881,7 @@
         "Category": "Control Center",
         "Caption": "Wanted a Samsung and a good experience?\nGoes really well with the Tomorrow Clock Font",
         "MinIOSVersion": "15.0",
-        "MaxIOSVersion": "16.6",
-        "AdditionalSupportedIOS": {
-          "MinIOSVersion_CustomLabel": "15.0",
-          "MaxIOSVersion_CustomLabel": "16.6b1",
-          "Build": [
-            "20G5026e"
-          ]
-        },
+        "MaxIOSVersion": "16.6.1",
         "Author": {
           "Label": "HackZy",
           "Links": [
@@ -1017,14 +919,7 @@
         "Category": "Sound",
         "Caption": "Unleash the unknown power of the galaxy",
         "MinIOSVersion": "15.0",
-        "MaxIOSVersion": "16.6",
-        "AdditionalSupportedIOS": {
-          "MinIOSVersion_CustomLabel": "15.0",
-          "MaxIOSVersion_CustomLabel": "16.6b1",
-          "Build": [
-            "20G5026e"
-          ]
-        },
+        "MaxIOSVersion": "16.6.1",
         "Author": {
           "Label": "HackZy",
           "Links": [
