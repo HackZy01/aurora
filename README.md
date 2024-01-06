@@ -1,38 +1,10 @@
-# <img src="https://github.com/HackZy01/misio/blob/main/assets/Repo.png" height="30"> Misa
-a Misaka Repository
+<div>
+<p align="left">
+  <img align="left" height="175" src="https://github.com/HackZy01/aurora/assets/77678316/496a41c6-ce7f-48bd-8fd7-0e2138e616fd" alt="Aurora" style="float: left; border-radius: 10px;"/>
+</p>
 
-https://raw.githubusercontent.com/HackZy01/misio/main/repo.json
-
-# <img src="https://github.com/HackZy01/misio/blob/main/assets/com.hackzy.checklock/icon.png" height="40"> Checkra1n Lock
-Ported over from a jailbreak tweak called LatchKey
-
-<img src="https://github.com/HackZy01/misio/blob/main/assets/com.hackzy.checklock/Screenshot1.png" height="500"> <img src="https://github.com/HackZy01/misio/blob/main/assets/com.hackzy.checklock/Screenshot2.png" height="500">
-
-# <img src="https://github.com/HackZy01/misio/blob/main/assets/com.hackzy.onecc/icon.png" height="40"> OneCC
-Samsung Control Center icons for your iPhone
-
-<img src="https://github.com/HackZy01/misio/blob/main/assets/com.hackzy.onecc/Screenshot1.png" height="500"> <img src="https://github.com/HackZy01/misio/blob/main/assets/com.hackzy.onecc/Screenshot2.png" height="500">
-
-
-# <img src="https://github.com/HackZy01/misio/blob/main/assets/com.hackzy.dino/icon.png" height="40"> Dino Legal Notice
-Replaces Legal Notice with Chrome Dino in the settings
-
-<img src="https://github.com/HackZy01/misio/blob/main/assets/com.hackzy.dino/Screenshot.png" height="500">
-
-# <img src="https://github.com/HackZy01/misio/blob/main/assets/com.hackzy.scharge/icon.png" height="40"> scharge
-Samsung Charging sound for your iPhone
-
-# <img src="https://github.com/HackZy01/misio/blob/main/assets/com.hackzy.joypixels/icon.png" height="40"> JoyPixels Emoji Font
-"The finest emoji you can use legally."
-
-<img src="https://github.com/HackZy01/misio/blob/main/assets/com.hackzy.joypixels/Screenshot.png" height="500">
-
-# <img src="https://github.com/HackZy01/misio/blob/main/assets/com.hackzy.fluentflat/icon.png" height="40"> Fluent Emoji (Flat)
-The default Windows 11 Emoji Font
-
-<img src="https://github.com/HackZy01/misio/blob/main/assets/com.hackzy.fluentflat/Screenshot.png" height="500">
-
-# <img src="https://github.com/HackZy01/misio/blob/main/assets/com.hackzy.subhack/icon.png" height="40"> Subway Surfers Hack
-Does what you think it does... coins, keys, boards, characters... blah blah
-
-<img src="https://github.com/HackZy01/misio/blob/main/assets/com.hackzy.subhack/Screenshot2.png" height="500"> <img src="https://github.com/HackZy01/misio/blob/main/assets/com.hackzy.subhack/Screenshot3.png" height="500"> <img src="https://github.com/HackZy01/misio/blob/main/assets/com.hackzy.subhack/Screenshot1.png" height="500"> 
+# Aurora
+Repository for all
+<div>
+  <a href="https://twitter.com/hackzy01"><img src="https://img.shields.io/static/v1?style=social&message=@hackzy01&logo=twitter&logoColor=1DA1F2&label=" /></a>
+</div>
