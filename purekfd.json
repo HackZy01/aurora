@@ -1,0 +1,443 @@
+{
+    "spec":"1.0",
+    "repotype":"purekfdextended",
+    "name": "Aurora",
+    "description": "customization knows no bounds",
+    "icon": "assets/Repository.png",
+    "accent": "#b3ebbb",
+    "featured": [
+        {
+            "name": "Galaxy Fonts",
+            "bundleid": "com.hackzy.galaxyfonts",
+            "banner": "images/purekfd/galaxyfonts.png",
+            "showname": false
+        },
+        {
+            "name": "Gesturify",
+            "bundleid": "com.hackzy.gestures",
+            "banner": "images/purekfd/gestures.png",
+            "showname": false
+        },
+        {
+            "name": "Subway Surfers+",
+            "bundleid": "com.hackzy.subhack",
+            "banner": "images/purekfd/subway.png",
+            "showname": false
+        }
+    ],
+    "packages": [
+        {
+            "name": "Windows Phone",
+            "bundleid": "com.hackzy.windowsphone",
+            "author": "HackZy",
+            "description": "nostalgia at it's finest",
+            "version": "2.0",
+            "long_description": "Step into a world of nostalgia, evoking memories of simpler times",
+            "category": "Sounds",
+            "icon": "images/com.hackzy.windowsphone/icon.png",
+            "banner": "assets/Header.png",
+            "path": "tweaks/com.hackzy.windowsphone2.purekfd",
+            "screenshots": [
+                "images/com.hackzy.windowsphone/ss1.png"
+            ],
+            "accent": "#b3ebbb"
+        },
+        {
+            "name": "JoyPixels",
+            "bundleid": "com.hackzy.joypixels",
+            "author": "HackZy & PoomSmart",
+            "description": "the full service emoji provider",
+            "version": "15.0",
+            "long_description": "JoyPixels Emoji Font for iOS",
+            "category": "Fonts",
+            "icon": "images/com.hackzy.joypixels/icon.png",
+            "banner": "assets/Header.png",
+            "path": "tweaks/com.hackzy.joypixels.purekfd",
+            "screenshots": [
+                "images/com.hackzy.joypixels/Screenshot.png"
+            ],
+            "accent": "#18ad74"
+        },
+        {
+            "name": "Fluent Emoji (Flat)",
+            "bundleid": "com.hackzy.fluentflat",
+            "author": "HackZy & PoomSmart",
+            "description": "default Windows 11 Emojis",
+            "version": "14.0.5",
+            "long_description": "Fluent Emoji Font for iOS\n\nIt's pretty cute ngl",
+            "category": "Fonts",
+            "icon": "images/com.hackzy.fluentflat/icon.png",
+            "banner": "assets/Header.png",
+            "path": "tweaks/com.hackzy.fluentflat.purekfd",
+            "screenshots": [
+                "images/com.hackzy.fluentflat/Screenshot.png"
+            ],
+            "accent": "#48c5ff"
+        },
+        {
+            "name": "CleanPrefs",
+            "bundleid": "com.hackzy.cleanprefs",
+            "author": "HackZy",
+            "description": "feel the joy in simplicity",
+            "version": "2.0",
+            "long_description": "CleanPrefs aims to simplify and let you customise your Settings page to your liking\n\nCredits for the clever name go to @lunginspector",
+            "category": "Settings",
+            "icon": "images/com.hackzy.cleanprefs/icon.png",
+            "banner": "assets/Header.png",
+            "path": "tweaks/com.hackzy.cleanprefs.purekfd",
+            "screenshots": [
+                "images/com.hackzy.cleanprefs/ss3.png",
+                "images/com.hackzy.cleanprefs/ss1.png"
+            ],
+            "accent": "#b3ebbb"
+        },
+        {
+            "name": "Gestureify",
+            "bundleid": "com.hackzy.gestures",
+            "author": "HackZy",
+            "description": "forget the home button",
+            "version": "1.2b",
+            "long_description": "Fluid Gesture Navigation for Home Button devices, before applying read the documentation in 'Advanced Settings', it goes throughs basic information and known bugs",
+            "category": "Navigation",
+            "icon": "images/com.hackzy.gestures/icon.png",
+            "banner": "assets/Header.png",
+            "path": "tweaks/com.hackzy.gestures.purekfd",
+            "screenshots": [
+                "images/com.hackzy.gestures/ss1.png",
+                "images/com.hackzy.gestures/ss2.png"
+            ],
+            "accent": "#b3ebbb"
+        },
+        {
+            "name": "Subway Surfers Plus",
+            "bundleid": "com.hackzy.subhack",
+            "author": "HackZy",
+            "description": "surf like a pro",
+            "version": "2.1",
+            "long_description": "This cheat gives you everything you need to be the best surfer. You get coins, keys, boosters, and more, without spending a single penny\n\nYou can customise the tweak in the 'Advanced Settings' page",
+            "category": "Games",
+            "icon": "images/com.hackzy.subhack/icon_text.png",
+            "banner": "assets/Header.png",
+            "path": "tweaks/com.hackzy.subhack21.purekfd",
+            "screenshots": [
+                "images/com.hackzy.subhack/ss1.png",
+                "images/com.hackzy.subhack/ss2.png",
+                "images/com.hackzy.subhack/ss3.png",
+                "images/com.hackzy.subhack/ss4.png",
+                "images/com.hackzy.subhack/ss5.png",
+                "images/com.hackzy.subhack/ss6.png"
+            ],
+            "accent": "#b3ebbb"
+        },
+        {
+            "name": "Galaxy Fonts",
+            "bundleid": "com.hackzy.galaxyfonts",
+            "author": "HackZy",
+            "description": "express yourself freely",
+            "version": "1.0",
+            "long_description": "Ported over OneUI 6 Clock Fonts",
+            "category": "Fonts",
+            "icon": "images/com.hackzy.galaxyfonts/icon.png",
+            "banner": "assets/Header.png",
+            "path": "tweaks/com.hackzy.galaxyfonts.purekfd",
+            "screenshots": [
+                "images/com.hackzy.galaxyfonts/ss1.png",
+                "images/com.hackzy.galaxyfonts/ss2.png",
+                "images/com.hackzy.galaxyfonts/ss3.png"
+            ],
+            "accent": "#b3ebbb"
+        },
+        {
+            "name": "Galaxy Fonts Legacy",
+            "bundleid": "com.hackzy.galaxyfontslegacy",
+            "author": "HackZy",
+            "description": "express yourself freely with iOS 15",
+            "version": "1.0",
+            "long_description": "Ported over OneUI 6 Clock Fonts for iOS 15",
+            "category": "Fonts",
+            "icon": "images/com.hackzy.galaxyfonts15/icon.png",
+            "banner": "assets/Header.png",
+            "path": "tweaks/com.hackzy.galaxyfontslegacy.purekfd",
+            "screenshots": [
+                "images/com.hackzy.galaxyfonts15/ss1.png",
+                "images/com.hackzy.galaxyfonts15/ss2.png",
+                "images/com.hackzy.galaxyfonts15/ss3.png"
+            ],
+            "accent": "#b3ebbb"
+        },
+        {
+            "name": "Media Molecule Fonts",
+            "bundleid": "com.hackzy.mmfonts",
+            "author": "HackZy",
+            "description": "relive your memories in style",
+            "version": "1.0",
+            "long_description": "Clock Fonts ported from LittleBigPlanet, Dreams and Tearaway",
+            "category": "Fonts",
+            "icon": "images/com.hackzy.mmfonts/icon.png",
+            "banner": "assets/Header.png",
+            "path": "tweaks/com.hackzy.mmfonts.purekfd",
+            "screenshots": [
+                "images/com.hackzy.mmfonts/ss1.png",
+                "images/com.hackzy.mmfonts/ss2.png",
+                "images/com.hackzy.mmfonts/ss3.png"
+            ],
+            "accent": "#b3ebbb"
+        },
+        {
+            "name": "Dawnbreaker",
+            "bundleid": "com.hackzy.dawnbreaker",
+            "author": "HackZy",
+            "description": "iOS 17 Ringtones",
+            "version": "1.0",
+            "long_description": "\u2726 \u0280\u026a\u0274\u0262\u1d1b\u1d0f\u0274\u1d07s\n\nOpening \u279c Steps,\n\nReflection \u279c Reflection,\n\nApex \u279c Valley,\n\nSilk \u279c Daybreak,\n\nUplift \u279c Tease,\n\nCircuit \u279c Kettle,\n\nPlayTime \u279c Milky Way,\n\nConstelation \u279c Departure,\n\nSummit \u279c Breaking",
+            "category": "Sound",
+            "icon": "images/com.hackzy.dawnbreaker/icon.png",
+            "banner": "assets/Header.png",
+            "path": "tweaks/com.hackzy.dawnbreaker.purekfd",
+            "screenshots": [],
+            "accent": "#b3ebbb"
+        },
+        {
+            "name": "SamsungOne Font",
+            "bundleid": "com.hackzy.samsungone",
+            "author": "HackZy & Alexman",
+            "description": "smooth and sleek",
+            "version": "1.0",
+            "long_description": "The font is designed to symbolize reliability and expertise with handwriting-like details that add a human touch",
+            "category": "Fonts",
+            "icon": "images/com.hackzy.samsungone/icon.png",
+            "banner": "assets/Header.png",
+            "path": "tweaks/com.hackzy.samsungone.purekfd",
+            "screenshots": [
+                "images/com.hackzy.samsungone/ss1.png",
+                "images/com.hackzy.samsungone/ss2.png",
+                "images/com.hackzy.samsungone/ss3.png",
+                "images/com.hackzy.samsungone/ss4.png"
+            ],
+            "accent": "#b3ebbb"
+        },
+        {
+            "name": "Meloso (100%)",
+            "bundleid": "com.hackzy.meloso",
+            "author": "HackZy & Alexman",
+            "description": "playful font with a hand-drawn charm",
+            "version": "1.1",
+            "long_description": "Meloso is a font which has a playful and organic feel that has its own hand-drawn charm.",
+            "category": "Fonts",
+            "icon": "images/com.hackzy.meloso/icon_color.png",
+            "banner": "assets/Header.png",
+            "path": "tweaks/com.hackzy.meloso.purekfd",
+            "screenshots": [
+                "images/com.hackzy.meloso/Screenshot1.png",
+                "images/com.hackzy.meloso/Screenshot2.png",
+                "images/com.hackzy.meloso/Screenshot3.png",
+                "images/com.hackzy.meloso/Screenshot4.png"
+            ],
+            "accent": "#b3ebbb"
+        },
+        {
+            "name": "Meloso (85%)",
+            "bundleid": "com.hackzy.meloso85",
+            "author": "HackZy & Alexman",
+            "description": "playful font with hand-drawn charm",
+            "version": "1.1",
+            "long_description": "Meloso is a font which has a playful and organic feel that has its own hand-drawn charm.",
+            "category": "Fonts",
+            "icon": "images/com.hackzy.meloso85/icon_color.png",
+            "banner": "assets/Header.png",
+            "path": "tweaks/com.hackzy.meloso85.purekfd",
+            "screenshots": [
+                "images/com.hackzy.meloso85/Screenshot1.png",
+                "images/com.hackzy.meloso85/Screenshot2.png",
+                "images/com.hackzy.meloso85/Screenshot3.png",
+                "images/com.hackzy.meloso85/Screenshot4.png"
+            ],
+            "accent": "#b3ebbb"
+        },
+        {
+            "name": "Limitless",
+            "bundleid": "com.constantin.limitless",
+            "author": "Constantin & HackZy",
+            "description": "rules are there to be broken",
+            "version": "1.0",
+            "long_description": "Removes the volume limit from European iPhones",
+            "category": "Other",
+            "icon": "images/com.constantin.limitless/icon.png",
+            "banner": "assets/Header.png",
+            "path": "tweaks/com.constantin.limitless.purekfd",
+            "screenshots": [],
+            "accent": "#b3ebbb"
+        },
+        {
+            "name": "Pixel LS UI",
+            "bundleid": "com.hackzy.pxlsui",
+            "author": "HackZy",
+            "description": "a different flavour",
+            "version": "1.0",
+            "long_description": "Replaces your LS Quick Toggle icons with the ones found on Android",
+            "category": "Lock Screen",
+            "icon": "images/com.hackzy.pxlsui/icon.png",
+            "banner": "assets/Header.png",
+            "path": "tweaks/com.hackzy.pxlsui.purekfd",
+            "screenshots": [
+                "images/com.hackzy.pxlsui/ss1.png",
+                "images/com.hackzy.pxlsui/ss2.png"
+            ],
+            "accent": "#b3ebbb"
+        },
+        {
+            "name": "OneUI LS UI",
+            "bundleid": "com.hackzy.oneuils",
+            "author": "HackZy",
+            "description": "simple and nice looking",
+            "version": "1.0",
+            "long_description": "OneUI Lock Screen Toggle Icons",
+            "category": "Lock Screen",
+            "icon": "images/com.hackzy.oneuisettings/icon.png",
+            "banner": "assets/Header.png",
+            "path": "tweaks/com.hackzy.oneuils.purekfd",
+            "screenshots": [
+                "images/com.hackzy.oneuils/ss1.png"
+            ],
+            "accent": "#b3ebbb"
+        },
+        {
+            "name": "Checkl0ck",
+            "bundleid": "com.hackzy.checklock",
+            "author": "HackZy",
+            "description": "give your lock screen a jailbreak touch",
+            "version": "1.1",
+            "long_description": "Replaces the Lock Screen padlock icon with the Checkra1n symbol\n\nBased on a jailbreak tweak called LatchKey",
+            "category": "Lock Screen",
+            "icon": "images/com.hackzy.checklock/icon.png",
+            "banner": "assets/Header.png",
+            "path": "tweaks/com.hackzy.checklock.purekfd",
+            "screenshots": [
+                "images/com.hackzy.checklock/Screenshot1.png",
+                "images/com.hackzy.checklock/Screenshot2.png"
+            ],
+            "accent": "#b3ebbb"
+        },
+        {
+            "name": "Negative Dock",
+            "bundleid": "com.hackzy.negativedock",
+            "author": "HackZy",
+            "description": "a unique and beautiful dock",
+            "version": "1.0",
+            "long_description": "Changes the appearence of your dock",
+            "category": "Dock",
+            "icon": "images/com.hackzy.negativedock/icon.png",
+            "banner": "assets/Header.png",
+            "path": "tweaks/com.hackzy.negativedock.purekfd",
+            "screenshots": [
+                "images/com.hackzy.negativedock/ss1.png",
+                "images/com.hackzy.negativedock/ss2.png",
+                "images/com.hackzy.negativedock/ss3.png"
+            ],
+            "accent": "#b3ebbb"
+        },
+        {
+            "name": "Passcode Customiser",
+            "bundleid": "com.hackzy.passcodecustomiser",
+            "author": "HackZy",
+            "description": "spice up your PIN Code",
+            "version": "1.1",
+            "long_description": "Change your passcode keys",
+            "category": "Lock Screen",
+            "icon": "images/com.hackzy.passcodecustomiser/icon.png",
+            "banner": "assets/Header.png",
+            "path": "tweaks/com.hackzy.passcodecustomiser.purekfd",
+            "screenshots": [
+                "images/com.hackzy.passcodecustomiser/ss1.png"
+            ],
+            "accent": "#b3ebbb"
+        },
+        {
+            "name": "Nothing Passcode",
+            "bundleid": "com.hackzy.ndot55pass",
+            "author": "HackZy",
+            "description": "nothing to see here",
+            "version": "1.0",
+            "long_description": "a passcode theme that uses Nothing's NDOT55 Font",
+            "category": "Theme",
+            "icon": "images/com.hackzy.ndot55pass/icon.png",
+            "banner": "assets/Header.png",
+            "path": "tweaks/com.hackzy.ndot55pass.purekfd",
+            "screenshots": [
+                "images/com.hackzy.ndot55pass/ss1.png",
+                "images/com.hackzy.ndot55pass/ss2.png",
+                "images/com.hackzy.ndot55pass/ss3.png"
+            ],
+            "accent": "#b3ebbb"
+        },
+        {
+            "name": "Material Pass",
+            "bundleid": "com.hackzy.materialpass",
+            "author": "HackZy",
+            "description": "fresh and minimalistic",
+            "version": "1.0",
+            "long_description": "Changes your passcode entry screen to a one that resembles Android by a little",
+            "category": "Lock Screen",
+            "icon": "images/com.hackzy.materialpass/icon.png",
+            "banner": "assets/Header.png",
+            "path": "tweaks/com.hackzy.materialpass.purekfd",
+            "screenshots": [
+                "images/com.hackzy.materialpass/gif.gif",
+                "images/com.hackzy.materialpass/ss1.png",
+                "images/com.hackzy.materialpass/ss2.png"
+            ],
+            "accent": "#b3ebbb"
+        },
+        {
+            "name": "OneUI Settings",
+            "bundleid": "com.hackzy.oneuisettings",
+            "author": "HackZy",
+            "description": "simple and vibrant",
+            "version": "1.0.1",
+            "long_description": "OneUI icon theme for Settings",
+            "category": "Theme",
+            "icon": "images/com.hackzy.oneuisettings/icon.png",
+            "banner": "assets/Header.png",
+            "path": "tweaks/com.hackzy.oneuisettings.purekfd",
+            "screenshots": [
+                "images/com.hackzy.oneuisettings/ss1.png",
+                "images/com.hackzy.oneuisettings/ss2.png",
+                "images/com.hackzy.oneuisettings/ss3.png"
+            ],
+            "accent": "#b3ebbb"
+        },
+        {
+            "name": "OneUI Control Centre",
+            "bundleid": "com.hackzy.onecc",
+            "author": "HackZy",
+            "description": "an update is in the works",
+            "version": "1.0",
+            "long_description": "Wanted a Samsung and a good experience?\nGoes really well with the Tomorrow Clock Font",
+            "category": "Control Center",
+            "icon": "images/com.hackzy.onecc/icon_new.png",
+            "banner": "assets/Header.png",
+            "path": "tweaks/com.hackzy.onecc.purekfd",
+            "screenshots": [
+                "images/com.hackzy.onecc/Screenshot1.png",
+                "images/com.hackzy.onecc/Screenshot2.png"
+            ],
+            "accent": "#b3ebbb"
+        },
+        {
+            "name": "Galactic Charge",
+            "bundleid": "com.hackzy.galacticcharge",
+            "author": "HackZy",
+            "description": "embrace the unknown",
+            "version": "1.0.2",
+            "long_description": "Unleash the unknown power of the galaxy",
+            "category": "Sound",
+            "icon": "images/com.hackzy.scharge/icon.png",
+            "banner": "assets/Header.png",
+            "path": "tweaks/com.hackzy.scharge.purekfd",
+            "screenshots": [
+                "images/com.hackzy.scharge/vid1.mov?loop=1&autoplay=1"
+            ],
+            "accent": "#b3ebbb"
+        }
+    ]
+}
