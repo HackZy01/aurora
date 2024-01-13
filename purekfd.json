@@ -440,12 +440,12 @@
             "accent": "#b3ebbb"
         },
         {
-            "name": "Dino Legal Notice",
+            "name": "Dino",
             "bundleid": "com.hackzy.dino",
             "author": "HackZy",
             "description": "the cure for boredom",
             "version": "1.0",
-            "long_description": "Replaces the Legal Notice entry in the settings with Chrome Dino Minigame",
+            "long_description": "Replaces the Legal Notice entry with Chrome's Dino",
             "category": "Games",
             "icon": "images/com.hackzy.dino/icon.png",
             "banner": "assets/Header.png",
